@@ -12,8 +12,8 @@ description: "LQC Open Positions"
 # menu: ["main", "footer"] # Optional, add page to a menu. Options: main, side, footer
 menu:
   main:
-    name: Positions
-    weight: 40
+    name: Open Positions
+    weight: 21
 #  footer:
   
 # Theme-Defined params
