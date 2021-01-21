@@ -1,5 +1,5 @@
 ---
-title: Silicon Quantum Devices and 2D Materials Lab
+title: Silicon Quantum Devices and 2D Materials
 description: Silicon Quantum Devices and 2D Materials
 date: 2020-02-02
 sidebar: true # Enable sidebar (on the right side) per page
