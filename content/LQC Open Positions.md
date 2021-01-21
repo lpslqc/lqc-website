@@ -75,20 +75,6 @@ Current open positions:
 
 ## LPS SSQP Program Manager/Technical Lead Positions (Gov)
 Multiple positions available on LPS Quantum Computing Program Management team.
-Please apply via: https://apply.intelligencecareers.gov/job-description/1148694
+Please apply via: https://apply.intelligencecareers.gov/job-description/1148694 
 
-LPS is a premier research organization, managed and operated by the U.S. Government, focused on developing new and innovative technologies to improve national security. Across its three locations, the University of Maryland-College Park, the University of Maryland-Baltimore County, and Ft. George G. Meade, Maryland, LPS conducts and supports world-class research from foundational quantum device physics to novel architectures for high-performance computing.   
-
-With a strong cadre of physicists and state-of-the-art research facilities, LPS has been at the forefront of basic and applied research in quantum information science, with an emphasis on computing for nearly a quarter century. Our mission also benefits from a strong collaborative relationship with the faculty, students, and staff of the University of Maryland. Leveraging this pool of talent and experience, LPS sponsors premier research groups, across the U.S. and around the world, to advance the state-of-the-art in qubit and supporting technologies. To learn more about LPS and our research activities, visit: https://www.lps.umd.edu/.  
-
-As a Physicist, and member of the LPS Quantum Computing Program Management team, you will push the frontiers of science by leveraging your expertise, ideas, and vision to: 
-
-- Manage and evaluate technical problems 
-- Assist with research challenges to enhance national security 
-- Bring together and collaborate with world-leading scientists in quantum computing across governments, industry, and academia to understand the latest state-of-the-art research; help identify future research gaps and needs; and contribute to a comprehensive 'whole-of-nation' approach to quantum information science 
-- Develop ideas into actionable research strategies and programs - Advise, administer and perform scientific projects 
-- Partner with LPS research staff to publish results 
-- Attend conferences, workshops, and government meetings to identify future areas of investment 
-- Advance U.S. leadership in quantum information science for the benefit of the American people
-
-Apply via: https://apply.intelligencecareers.gov/job-description/1148694
+With a strong cadre of physicists and state-of-the-art research facilities, LPS has been at the forefront of basic and applied research in quantum information science, with an emphasis on computing for nearly a quarter century. Our mission also benefits from a strong collaborative relationship with the faculty, students, and staff of the University of Maryland. Leveraging this pool of talent and experience, LPS sponsors premier research groups, across the U.S. and around the world, to advance the state-of-the-art in qubit and supporting technologies. To learn more about LPS and our research activities, visit: https://www.lps.umd.edu/. 

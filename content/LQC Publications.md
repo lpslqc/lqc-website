@@ -32,7 +32,7 @@ widgets: # Enable sidebar widgets in given order per page
 ---
 
 
-### 2020
+### 2020 Publications
 
 1. C. J. K. Richardson,  A. Alexander, C. G. Weddle, B. Arey, and M. Olszta,
 Low-loss superconducting titanium nitride grown using plasma-assisted molecular beam epitaxy,

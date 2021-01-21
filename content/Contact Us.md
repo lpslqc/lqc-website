@@ -17,7 +17,7 @@ menu:
   footer:
   
 # Theme-Defined params
-# thumbnail: "img/placeholder.jpg" # Thumbnail image
+thumbnail: "img/LPS.jpg" # Thumbnail image
 # lead: "Example lead - highlighted near the title" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: false # Enable authorbox for specific page
@@ -30,6 +30,10 @@ widgets: # Enable sidebar widgets in given order per page
   - "recent"
   - "taglist"
 ---
+
+8050 Greenmead Drive, College Park, MD 20740
+
+Phone: (301) 935-6400 Fax: (301) 935-6723
 
 Email us at lqc@lps.gov
 
