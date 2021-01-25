@@ -12,7 +12,7 @@ description: "How the LPS Qubit Collaboratory Works"
 #menu: ["main", "footer"] # Optional, add page to a menu. Options: main, side, footer
 menu:
   main:
-    name: Engage
+    name: How it works
     weight: 20
   footer:
   
@@ -35,7 +35,7 @@ The LQC offers a mechanism for collaborative research between LPS and academia, 
 
 If you want to engage with the LQC:
 
-First, understand our mission to: 
+1) Understand our mission to: 
 
 - Pursue disruptive fundamental research and enabling technologies with a focus on qubit development for quantum computing and other applications (such as sensing); 
 
@@ -43,10 +43,10 @@ First, understand our mission to:
 
 - Grow deep, collaborative partnerships to tackle the most difficult and relevant long-term problems for quantum information science and technology. 
 
-Second, refer to the open BAA for the LQC: [LQC Open BAA]({{< relref "engage/LQC Open BAA.md" >}}) and the associated [Frequently Asked Questions]({{< relref "engage/FAQ.md" >}}).
+2) Refer to the open BAA for the LQC: [LQC Open BAA]({{< relref "engage/LQC Open BAA.md" >}}) and the associated [Frequently Asked Questions]({{< relref "engage/FAQ.md" >}}).
 
 
-Third, appreciate our Core Values to:
+3) Appreciate our Core Values to:
 
 - Maintain our scientific integrity in everything we do;
 

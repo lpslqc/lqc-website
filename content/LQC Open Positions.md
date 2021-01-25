@@ -12,7 +12,7 @@ description: "LQC Open Positions"
 # menu: ["main", "footer"] # Optional, add page to a menu. Options: main, side, footer
 menu:
   main:
-    name: Jobs
+    name: Positions
     weight: 21
 #  footer:
   

@@ -30,6 +30,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # Take care of different quotes OR escaping symbols in these params if necessary
   fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+  
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
 
 
 [Params.logo]

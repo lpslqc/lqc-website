@@ -12,7 +12,7 @@ description: "The LQC's mission: To explore strange new materials...To seek out 
 # menu: ["main", "footer"] # Optional, add page to a menu. Options: main, side, footer
 menu:
   main:
-    name: About
+    name: History
     weight: 10
 #  footer:
 

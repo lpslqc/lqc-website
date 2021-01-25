@@ -41,5 +41,3 @@ The LQC's growing list of partners include (in chronological order):
 - [QuICS, University of Maryland, College Park](https://quics.umd.edu/)
 - [MIT Center for Quantum Engineering](https://cqe.mit.edu/)
 - [Lincoln Laboratory](https://www.ll.mit.edu/)
-- [Physics Department, University of Arkansas](https://fulbright.uark.edu/departments/physics/index.php)
-- [University of Texas, El Paso](https://www.utep.edu/)
