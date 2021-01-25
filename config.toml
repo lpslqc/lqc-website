@@ -36,7 +36,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 
 [Params.logo]
-  image = "img/LQC Logo 210120.jpg" # Logo image. Path relative to "static"
+  image = "img/collablogo2.png" # Logo image. Path relative to "static"
   title = "LPS Qubit Collaboratory" # Logo title, otherwise will use site title
   subtitle = "Quantum Information Science with the Laboratory for Physical Sciences" # Logo subtitle
 
