@@ -37,23 +37,23 @@ If you want to engage with the LQC:
 
 1) Understand our mission to: 
 
-- Pursue disruptive fundamental research and enabling technologies with a focus on qubit development for quantum computing and other applications (such as sensing); 
+	- Pursue disruptive fundamental research and enabling technologies with a focus on qubit development for quantum computing and other applications (such as sensing); 
 
-- Build a quantum workforce through research experiences and innovative training in government at LPS and at LQC partners; and 
+	- Build a quantum workforce through research experiences and innovative training in government at LPS and at LQC partners; and 
 
-- Grow deep, collaborative partnerships to tackle the most difficult and relevant long-term problems for quantum information science and technology. 
+	- Grow deep, collaborative partnerships to tackle the most difficult and relevant long-term problems for quantum information science and technology. 
 
 2) Refer to the open BAA for the LQC: [LQC Open BAA]({{< relref "engage/LQC Open BAA.md" >}}) and the associated [Frequently Asked Questions]({{< relref "engage/FAQ.md" >}}).
 
 
 3) Appreciate our Core Values to:
 
-- Maintain our scientific integrity in everything we do;
+	- Maintain our scientific integrity in everything we do;
 
-- Create a safe research environment of trust and respect;
+	- Create a safe research environment of trust and respect;
 
-- Choose the hard problems over the easy ones and pursue the technical challenges that others put off;
+	- Choose the hard problems over the easy ones and pursue the technical challenges that others put off;
 
-- Work hard and be kind.
+	- Work hard and be kind.
 
 Finally, seek out [LQC Open Positions]({{< relref "LQC Open Positions.md" >}}) and [Contact Us]({{< relref "Contact Us.md" >}}) for more information.

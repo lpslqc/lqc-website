@@ -43,9 +43,9 @@ widgets: # Enable sidebar widgets in given order per page
 - Kevin Osborn
 - Ben Palmer
 
-### Partner Principle Investigators
-- Hugh Churchill, U. Arkansas
-- Yun-Pil Shim, U. Texas, El Paso
+### Partners
+- Hugh Churchill, Assostamt Professor, U. Arkansas
+- Y.-P. Shim, Assistant Professor, El Paso
 
 ### LPS Postdoctoral Fellows and Research Staff
 
