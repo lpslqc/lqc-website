@@ -50,7 +50,7 @@ If you want to engage with the LQC:
 
 	- Maintain our scientific integrity in everything we do;
 
-	- Create a safe research environment of trust and respect;
+	- Create a  research environment of trust, respect, and open communication;
 
 	- Choose the hard problems over the easy ones and pursue the technical challenges that others put off;
 

@@ -37,3 +37,4 @@ Phone: (301) 935-6400 Fax: (301) 935-6723
 
 Email us at lqc@lps.gov
 
+#### [Inquire about open positions at the LPS Qubit Collaboratory.](https://forms.gle/aVzMspPpmWJ2u4xK8)
