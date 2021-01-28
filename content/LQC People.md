@@ -44,8 +44,8 @@ widgets: # Enable sidebar widgets in given order per page
 - Ben Palmer
 
 ### Partners
-- Hugh Churchill, Assostamt Professor, U. Arkansas
-- Y.-P. Shim, Assistant Professor, El Paso
+
+- <em>Coming soon</em>
 
 ### LPS Postdoctoral Fellows and Research Staff
 
