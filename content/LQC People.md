@@ -35,7 +35,7 @@ widgets: # Enable sidebar widgets in given order per page
 - Charles Tahan, Director
 - Chris Richardson, Deputy Director
 
-### LPS Principle Investigators
+### LPS Research Leads
 - Bob Butera
 - Frank Gaitan
 - Bruce Kane

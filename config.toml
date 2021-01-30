@@ -24,7 +24,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.style.vars]
   #highlightColor = "#193447" # Override highlight color
   #highlightColor = "#1389aa"
-  highlightColor = "#087195"
+  #highlightColor = "#087195"
+  
+  highlightColor = "#3094c3"
+  #highlightColor = "#2c5484"
 
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
@@ -36,7 +39,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 
 [Params.logo]
-  image = "img/collablogo3.png" # Logo image. Path relative to "static"
+  image = "img/collablogo4.png" # Logo image. Path relative to "static"
   title = "LPS Qubit Collaboratory" # Logo title, otherwise will use site title
   subtitle = "Quantum Information Science with the Laboratory for Physical Sciences" # Logo subtitle
 
