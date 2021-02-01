@@ -39,7 +39,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 
 [Params.logo]
-  image = "img/collablogo4.png" # Logo image. Path relative to "static"
+  image = "img/collablogo5.png" # Logo image. Path relative to "static"
   title = "LPS Qubit Collaboratory" # Logo title, otherwise will use site title
   subtitle = "Quantum Information Science with the Laboratory for Physical Sciences" # Logo subtitle
 
