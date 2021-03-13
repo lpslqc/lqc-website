@@ -36,12 +36,12 @@ Since 1993, LPS has funded the quantum computing research community in the Unite
 ## Sponsored Research
 LPS, in partnership with ARO, funds (via Broad Agency Announcments and other mechanisms) a broad array of quantum computing and related research. This research program has changed substanially over the decades and presently includes these major programs:
 
-- HiPS 
-- QiS
-- SHiFT
-- QCISS
-- NEQST
-- CQTS
+ - HiPS (High Performance Superconducting Qubit Systems)
+ - QiS (Qubits in Silicon Program)
+ - SHiFT (Stable High Fidelity Trapped Ion Systems)
+ - QCISS (Quantum Characterization of Intermediate-Scale Systems)
+ - NEQST (New & Emerging Qubit Science & Technology)
+ - CQTS (Cross-Quantum Technology Systems)
 
 ## Intramural Research
 Beginning in 2000, LPS began active internal research in quantum information science. The LQC builds on these research labs expanding to new labs and research directions and adding substantial additional resources for collaborative research and quantum training.
