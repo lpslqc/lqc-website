@@ -39,10 +39,10 @@ In November 2020, [NSA announced the LPS Qubit Collaboratory (LQC)]({{< relref "
 
 > A collaboratory is a “center without walls in which the nation’s researchers can perform their research without regard to physical location, interacting with colleagues, accessing instrumentation, sharing data and computational resources, [and] accessing information in digital libraries” (Wulf, 1989).
 
-[How the LPS Qubit Collaboratory Works]({{< relref "How the LPS Qubit Collaboratory Works.md" >}})
+[How the LPS Qubit Collaboratory Works]({{< relref "about/How the LPS Qubit Collaboratory Works.md" >}})
 
 [LQC Open BAA]({{< relref "engage/LQC Open BAA.md" >}})
 
 [LQC News]({{< relref "news/" >}})
 
-[LPS Solid-State and Quantum Physics Programs]({{< relref "LPS Solid-State and Quantum Physics Programs.md" >}})
+[LPS Solid-State and Quantum Physics Programs]({{< relref "about/LPS Solid-State and Quantum Physics Programs.md" >}})

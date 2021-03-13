@@ -54,11 +54,11 @@ Current open positions:
 
 ## Postdoctoral Positions
 - [LPS National Research Council (NRC) Postdoctoral Fellowships](http://nrc58.nas.edu/RAPLab10/Opportunity/Opportunities.aspx?LabCode=36)
-- LQC/UMD Postdoctoral Fellowships (contact [LQC Research Lead]({{< relref "LQC People.md" >}}) or [inquire here](https://forms.gle/aVzMspPpmWJ2u4xK8))
+- LQC/UMD Postdoctoral Fellowships (contact [LQC Research Lead]({{< relref "people/LQC People.md" >}}) or [inquire here](https://forms.gle/aVzMspPpmWJ2u4xK8))
 - ARO/LPS QuACR Fellowships
 
 ## Graduate Fellowships
-- LQC/UMD Graduate Fellowships (contact [LQC Research Lead]({{< relref "LQC People.md" >}}) or [inquire here](https://forms.gle/aVzMspPpmWJ2u4xK8))
+- LQC/UMD Graduate Fellowships (contact [LQC Research Lead]({{< relref "people/LQC People.md" >}}) or [inquire here](https://forms.gle/aVzMspPpmWJ2u4xK8))
 - [MIT Center for Quantum Engineering Fernand Bedard Fellowships](https://cqe.mit.edu/doc-bedard-fellowship/)
 - [UMD LPS-JQI Quantum Fellowships](https://jqi.umd.edu/apply)
 - [ARO/LPS QuACR Fellowships]({{< relref "engage/LQC Open BAA.md" >}})

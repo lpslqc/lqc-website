@@ -54,7 +54,7 @@ System and Method for Scanning Tunneling Microscopy on Current-Carrying Samples
 
 6. Rusko Ruskov, Charles Tahan,
 Modulated longitudinal gates on encoded spin-qubits via curvature couplings to a superconducting cavity, 
-Physical Review B (accepted)
+Phys. Rev. B 103, 035301 (2021)
 
 7. Daniel L. Campbell, Yun-Pil Shim, Bharath Kannan, Roni Winik, Alexander Melville, Bethany M. Niedzielski, Jonilyn L. Yoder, Charles Tahan, Simon Gustavsson, William D. Oliver,
 Universal non-adiabatic control of small-gap superconducting qubits,
