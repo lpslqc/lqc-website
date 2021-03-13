@@ -2,4 +2,4 @@
 Title: Frequently Asked Questions
 ---
 
-Please send your questions to: usarmy.rtp.rdecom-aro.mesg.qcbox@mail.mil
+Please send your questions to: usarmy.rtp.devcom-arl.mesg.qcbox@mail.mil

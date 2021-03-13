@@ -56,4 +56,4 @@ If you want to engage with the LQC:
 
 	- Work hard and be kind.
 
-Finally, seek out [LQC Open Positions]({{< relref "LQC Open Positions.md" >}}) and [Contact Us]({{< relref "Contact Us.md" >}}) for more information.
+Finally, seek out [LQC Open Positions]({{< relref "people/LQC Open Positions.md" >}}) and [Contact Us]({{< relref "Contact Us.md" >}}) for more information.
