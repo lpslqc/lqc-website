@@ -1,5 +1,5 @@
 ---
-title: "LPS LQC Laboratories"
+title: "LQC Laboratories at LPS"
 menu:
   main:
     name: Labs

@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "LQC People"
-# date: "2020-02-02"
+#date: "2021-03-12"
 description: "LQC People"
 #categories:
 #  - "Category 1"
@@ -31,10 +31,6 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 ---
 
-### LQC Leadership
-- Charles Tahan, Director
-- Chris Richardson, Deputy Director
-
 ### LPS Research Leads
 - Bob Butera
 - Frank Gaitan
@@ -42,12 +38,14 @@ widgets: # Enable sidebar widgets in given order per page
 - Ari Mizel
 - Kevin Osborn
 - Ben Palmer
+- Chris Richardson, Deputy Director, richardson@lps.gov
+- Charles Tahan, Director, ctahan@lps.gov
 
 ### Partners
 
 - <em>Coming soon</em>
 
-### LPS Postdoctoral Fellows and Research Staff
+### LPS Researchers
 
 - <em>Coming soon</em>
 

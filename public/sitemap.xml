@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/lps-announces-first-ever-qubit-collaboratory/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/news/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/press-releases/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/atomistic-fabrication/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/cryologic-labs/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/epitaxial-materials/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/fundamentals-of-qubit-behavior/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/quantum-circuits-with-two-level-systems/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/quantum-information-and-device-theory/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/quantum-information-theory/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/quantum-superconducting-devices/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/silicon-quantum-devices-and-2d-materials/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/labs/super-semi-lab/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/demo-page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/jobs/2020-august-gov-positions/</loc>
+  </url>
+  
+  <url>
+    <loc>/logos/logos/</loc>
+  </url>
+  
+  <url>
+    <loc>/lqc-workforce-programs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about-the-lps-qubit-collaboratory/</loc>
+  </url>
+  
+  <url>
+    <loc>/engage/lqc-open-baa/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact-us/</loc>
+  </url>
+  
+  <url>
+    <loc>/engage/</loc>
+  </url>
+  
+  <url>
+    <loc>/engage/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/how-the-lps-qubit-collaboratory-works/</loc>
+  </url>
+  
+  <url>
+    <loc>/jobs/</loc>
+  </url>
+  
+  <url>
+    <loc>/logos/</loc>
+  </url>
+  
+  <url>
+    <loc>/lps-solid-state-and-quantum-physics-programs/</loc>
+  </url>
+  
+  <url>
+    <loc>/lqc-open-positions/</loc>
+  </url>
+  
+  <url>
+    <loc>/lqc-partners/</loc>
+  </url>
+  
+  <url>
+    <loc>/lqc-people/</loc>
+  </url>
+  
+  <url>
+    <loc>/lqc-publications/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on LPS Qubit Collaboratory</title>
+    <link>/tags/news/</link>
+    <description>Recent content in news on LPS Qubit Collaboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPS announces first-ever qubit collaboratory</title>
+      <link>/news/lps-announces-first-ever-qubit-collaboratory/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/lps-announces-first-ever-qubit-collaboratory/</guid>
+      <description>The quantum world hosts a rich variety of physics that could enable functionality far beyond what traditional technologies can achieve. By probing and manipulating phenomena that occur at the single particle scale, the emerging field of quantum information science (QIS) aims to create new forms of computing, sensing, and communications that could revolutionize how we process and transmit data. The US recently launched the National Quantum Initiative (NQI) to foster collaboration across multiple government agencies in order to strengthen US leadership in QIS and support the next generation of quantum scientists and engineers.</description>
+    </item>
+    
+  </channel>
+</rss>

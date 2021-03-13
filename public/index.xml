@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LPS Qubit Collaboratory</title>
+    <link>/</link>
+    <description>Recent content on LPS Qubit Collaboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPS announces first-ever qubit collaboratory</title>
+      <link>/news/lps-announces-first-ever-qubit-collaboratory/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/lps-announces-first-ever-qubit-collaboratory/</guid>
+      <description>The quantum world hosts a rich variety of physics that could enable functionality far beyond what traditional technologies can achieve. By probing and manipulating phenomena that occur at the single particle scale, the emerging field of quantum information science (QIS) aims to create new forms of computing, sensing, and communications that could revolutionize how we process and transmit data. The US recently launched the National Quantum Initiative (NQI) to foster collaboration across multiple government agencies in order to strengthen US leadership in QIS and support the next generation of quantum scientists and engineers.</description>
+    </item>
+    
+    <item>
+      <title>Atomistic Fabrication</title>
+      <link>/labs/atomistic-fabrication/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/atomistic-fabrication/</guid>
+      <description>The scanning tunneling microscopy (STM) group utilized unique systems capable of measuring devices at cryogenic temperatures and in high magnetic fields, and performing ultra-precise lithography. Experimental research activities focus on exploring the surfaces of superconductors, magnetic thin films, and performing hydrogen lithography to synthesize devices at the atomic scale.
+Research Lead: Bob Butera</description>
+    </item>
+    
+    <item>
+      <title>Cryologic Labs</title>
+      <link>/labs/cryologic-labs/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/cryologic-labs/</guid>
+      <description>Reversible Logic Macroscopic-quantum phenomena with flux-quanta are explored to lower the energy usage of digital gates in computers. Present-day logic gates use irreversible functions, but physics allows for fundamentally more-efficient reversible gates. Free-dynamical reversible gates are possible using systems of undamped Josephson junctions with complex resonances. Ongoing theoretical and experimental studies of these resonances may lead to dissipationless changes in flux-quanta polarity for the future of computing.
+Research Lead: Kevin Osborn</description>
+    </item>
+    
+    <item>
+      <title>Epitaxial Materials</title>
+      <link>/labs/epitaxial-materials/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/epitaxial-materials/</guid>
+      <description>The epitaxial materials group synthesizes advanced materials using molecular beam epitaxy. Experimental activities revolve around creating materials that advance the capabilities of qubit devices. Two examples are custom low-loss superconductors and semiconductor quantum well heterostructures.
+Research Lead: Chris Richardson</description>
+    </item>
+    
+    <item>
+      <title>Fundamentals of Qubit Behavior</title>
+      <link>/labs/fundamentals-of-qubit-behavior/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/fundamentals-of-qubit-behavior/</guid>
+      <description>Can we design qubits with longer coherence times? Is it possible for a time-independent Hamiltonian to prevent noise from decohering a quantum computation? Are there fundamental physical limits to quantumness? These are some of the research questions studied by our group.
+Research Lead: Ari Mizel</description>
+    </item>
+    
+    <item>
+      <title>Quantum Circuits With Two-Level Systems</title>
+      <link>/labs/quantum-circuits-with-two-level-systems/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/quantum-circuits-with-two-level-systems/</guid>
+      <description>Custom superconducting resonators and qubits are studied to better understand coherence, noise, quantum-material properties, et cetera for the future quantum processors. Many studies are performed on atomically sized two-level systems (TLSs), a major source of decoherence. For example, TLS-energy tuning and TLS-sourced microwave lasing are implemented.
+Research Lead: Kevin Osborn</description>
+    </item>
+    
+    <item>
+      <title>Quantum Information and Device Theory</title>
+      <link>/labs/quantum-information-and-device-theory/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/quantum-information-and-device-theory/</guid>
+      <description>We propose new types of qubits and quantum devices for practical application from quantum computing to sensing and for advancing fundamental physics. Collaborating with experimental groups around the world we seek to understand and advance the state of the art in qubit science.
+Research Lead: Charles Tahan</description>
+    </item>
+    
+    <item>
+      <title>Quantum Information Theory</title>
+      <link>/labs/quantum-information-theory/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/quantum-information-theory/</guid>
+      <description>We study a number of topics including developing resource reduction methods for quantum error correcting codes; quantum algorithms for problems in group theory and combinatorics, and quantum simulation algorithms for non-linear classical systems; and quantum control protocols for the preparation of high-fidelity logical quantum states.
+Research Lead: Frank Gaitan</description>
+    </item>
+    
+    <item>
+      <title>Quantum Superconducting Devices</title>
+      <link>/labs/quantum-superconducting-devices/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/quantum-superconducting-devices/</guid>
+      <description>The quantum superconducting devices group measures at very low temperatures (T ~ 20 mK) a variety of quantum phenomena in circuit QED transmon devices. Our work is broadly focused on understanding 1) the physics of quantum coherent phenomena in these devices and their potential application for quantum computation and 2) the sources of noise that couple to our devices and developing mitigation strategies in an effort to improve the device’s coherence time and control fidelities.</description>
+    </item>
+    
+    <item>
+      <title>Silicon Quantum Devices and 2D Materials</title>
+      <link>/labs/silicon-quantum-devices-and-2d-materials/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/silicon-quantum-devices-and-2d-materials/</guid>
+      <description>Our primary focus is the development of novel materials and technologies for quantum computer research. Motivated by our previous theoretical work on silicon quantum computer architectures, we are exploring novel approaches to creating semiconductor devices at the atomic scale: we have fabricated and measured the first silicon field effect transistor (FET) devices in which mobile electrons are confined adjacent to a hydrogen terminated silicon surface. These devices have record mobility and exhibit the sixfold valley degeneracy expected on silicon [111].</description>
+    </item>
+    
+    <item>
+      <title>Super|Semi Lab</title>
+      <link>/labs/super-semi-lab/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/labs/super-semi-lab/</guid>
+      <description>The Super|Semi Lab is a new multi-PI laboratory focused on superconducting and semiconductor devices and hybrid devices like super-semi junctions and epitaxial junctions.
+Research Leads: Open Positions, Charles Tahan, Chris Richardson, Ben Palmer</description>
+    </item>
+    
+    <item>
+      <title>A publication title, such as title of a paper</title>
+      <link>/publications/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/example/</guid>
+      <description>Further details on your publication can be written here using Markdown for formatting. This text will be displayed on the Publication Detail page.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/demo-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/demo-page/</guid>
+      <description>This page should include demos of everything you are implementing.
+Transclusion Transclusions allow a preview of another linked page to show on a page.
+For example,
+[transclusion]
+![[Contact Us]]
+[/transclusion]
+ Box sizes can be edited:  [transclusion]
+![[LQC People]]![[LQC People]]![[LQC People]][/transclusion]
+ The default box colors are sky blue, slate grey, light green, yellow, and pink. However, box background colors can also be customized with a hex value:  !</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/jobs/2020-august-gov-positions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jobs/2020-august-gov-positions/</guid>
+      <description>Please apply via: [[https://apply.intelligencecareers.gov/job-description/1148740]]
+Responsibilities NSA is home to one of the largest and most established in-house research organizations within the U.S. Intelligence Community (IC), employing scientists with world-class skills in fields such as mathematics, physics, computer science, engineering, and cybersecurity. We collaborate with leading industries, universities, and national laboratories to advance core competencies, leverage work in overlapping disciplines, and solve some of the most challenging national security problems thought to be intractable by adversaries and commercial industry.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/logos/logos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/logos/logos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/lqc-workforce-programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lqc-workforce-programs/</guid>
+      <description>Building a &amp;ldquo;quantum-smart&amp;rdquo; workforce.</description>
+    </item>
+    
+    <item>
+      <title>About the LPS Qubit Collaboratory</title>
+      <link>/about-the-lps-qubit-collaboratory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about-the-lps-qubit-collaboratory/</guid>
+      <description>Quantum Information Science emerges from the intersection of quantum mechanics and information science and promises new forms of computing, sensing, and networks.
+In the Fall of 2018, Agencies and offices across the federal government, including LPS, came together to write a National Strategic Overview for Quantum Information Science. Shortly thereafter, the National Quantum Initiative Act legislated new QIS Research Centers, a quantum industry consortium, and new coordinating bodies (see quantum.gov). The National Defense Authorization Acts of 2019 and 2020 called for a Department of Defense Quantum Information Science Program in support of the national effort, including designation of DOD QIS Research Centers.</description>
+    </item>
+    
+    <item>
+      <title>ARO/LQC Broad Agency Announcement</title>
+      <link>/engage/lqc-open-baa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/engage/lqc-open-baa/</guid>
+      <description>The LQC BAA offers a means to establish collaborative agreements with LPS to conduct original research together.
+The ARO/LPS LQC BAA will be announced soon. Also see How the LQC Works and the FAQ.</description>
+    </item>
+    
+    <item>
+      <title>Contact the LQC</title>
+      <link>/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact-us/</guid>
+      <description>8050 Greenmead Drive, College Park, MD 20740
+Phone: (301) 935-6400 Fax: (301) 935-6723
+Email us at lqc@lps.gov
+Inquire about open positions at the LPS Qubit Collaboratory. </description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>/engage/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/engage/faq/</guid>
+      <description>Please send your questions to: usarmy.rtp.rdecom-aro.mesg.qcbox@mail.mil</description>
+    </item>
+    
+    <item>
+      <title>How the LPS Qubit Collaboratory Works</title>
+      <link>/how-the-lps-qubit-collaboratory-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/how-the-lps-qubit-collaboratory-works/</guid>
+      <description>The LQC offers a mechanism for collaborative research between LPS and academia, industry, FFRDCs, and Government Laboratories to advance foundational and transformative research on challenging problems that have hindered progress in quantum information processing and associated technologies.
+If you want to engage with the LQC:
+  Understand our mission to:
+  Pursue disruptive fundamental research and enabling technologies with a focus on qubit development for quantum computing and other applications (such as sensing);</description>
+    </item>
+    
+    <item>
+      <title>LPS Solid-State and Quantum Physics Programs</title>
+      <link>/lps-solid-state-and-quantum-physics-programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lps-solid-state-and-quantum-physics-programs/</guid>
+      <description>Since 1993, LPS has funded the quantum computing research community in the United States and around the world. Find out more here.
+Sponsored Research LPS, in partnership with ARO, funds (via Broad Agency Announcments and other mechanisms) a broad array of quantum computing and related research. This research program has changed substanially over the decades and presently includes these major programs:
+ HiPS (High Performance Superconducting Qubit Systems) QiS (Qubits in Silicon Program) SHiFT (Stable High Fidelity Trapped Ion Systems) QCISS (Quantum Characterization of Intermediate-Scale Systems) NEQST (New &amp;amp; Emerging Qubit Science &amp;amp; Technology) CQTS (Cross-Quantum Technology Systems)  Intramural Research Beginning in 2000, LPS began active internal research in quantum information science.</description>
+    </item>
+    
+    <item>
+      <title>LQC Open Positions</title>
+      <link>/lqc-open-positions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lqc-open-positions/</guid>
+      <description>The Laboratory for Physical Sciences, located at the University of Maryland-College Park, is a unique organization where university, industry, and federal government scientists collaborate on research in advanced computer, sensing, and networking technologies. Working at LPS can take the form of government, UMD, and industry positions at multiple skill levels. See below for current opportunities.
+Inquire about open positions at the LPS Qubit Collaboratory. LPS Lead Researcher Positions (Government) Detailed job descriptions.</description>
+    </item>
+    
+    <item>
+      <title>LQC Partners</title>
+      <link>/lqc-partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lqc-partners/</guid>
+      <description>LPS was founded on the campus of the University of Maryland in 1957. For over 60 years LPS has trained generations of future scientists and engineers in partnership with local universities. LPS is a founding member of the JQI, QuICS, and the MIT CQE.
+The LQC&amp;rsquo;s growing list of partners include (in chronological order):
+ Physics Department, University of Maryland, College Park Joint Quantum Institute, University of Maryland, College Park Center for Quantum Materials, University of Maryland, College Park QuICS, University of Maryland, College Park MIT Center for Quantum Engineering Lincoln Laboratory  </description>
+    </item>
+    
+    <item>
+      <title>LQC People</title>
+      <link>/lqc-people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lqc-people/</guid>
+      <description>LPS Research Leads  Bob Butera Frank Gaitan Bruce Kane Ari Mizel Kevin Osborn Ben Palmer Chris Richardson, Deputy Director, richardson@lps.gov Charles Tahan, Director, ctahan@lps.gov  Partners  Coming soon  LPS Researchers  Coming soon  Graduate Students  Coming soon  </description>
+    </item>
+    
+    <item>
+      <title>Publications and Presentations</title>
+      <link>/lqc-publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lqc-publications/</guid>
+      <description>2020 Publications   C. J. K. Richardson, A. Alexander, C. G. Weddle, B. Arey, and M. Olszta, Low-loss superconducting titanium nitride grown using plasma-assisted molecular beam epitaxy, Journal of Applied Physics 127 235302 (2020).
+  C. J. K. Richardson, C., Lordi, V., Misra, S., &amp;amp; Shabani, J. (2020), Materials science for quantum information science and technology, MRS Bulletin, 45, 485 (2020)
+  Siddharth Tyagi, Michael Dreyer, David Bowen, Daniel Hinkel, Adam L.</description>
+    </item>
+    
+  </channel>
+</rss>
