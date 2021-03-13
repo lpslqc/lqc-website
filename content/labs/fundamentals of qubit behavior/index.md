@@ -12,4 +12,5 @@ thumbnail: "labs/fundamentals-of-qubit-behavior/thumbnail.jpg" # Thumbnail image
 ---
 Can we design qubits with longer coherence times?  Is it possible for a time-independent Hamiltonian to prevent noise from decohering a quantum computation?  Are there fundamental physical limits to quantumness?  These are some of the research questions studied by our group.
 
-Research Lead: Ari Mizel
+Research Lead: [Ari Mizel](http://arimizel.com/)
+

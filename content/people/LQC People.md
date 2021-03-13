@@ -34,12 +34,12 @@ widgets: # Enable sidebar widgets in given order per page
 ### LPS Research Leads
 - Bob Butera
 - Frank Gaitan
-- Bruce Kane
-- Ari Mizel
-- Kevin Osborn
-- Ben Palmer
-- Chris Richardson, Deputy Director, richardson@lps.gov
-- Charles Tahan, Director, ctahan@lps.gov
+- [Bruce Kane](https://groups.jqi.umd.edu/kane/)
+- [Ari Mizel](http://arimizel.com/)
+- [Kevin Osborn](https://www.physics.umd.edu/~kosborn/)
+- [Ben Palmer](http://terpconnect.umd.edu/~bpalmer/)
+- [Chris Richardson](http://richardsonmbe.umd.edu/), [Deputy Director](mailto:richardson@lps.gov)
+- [Charles Tahan](http://research.tahan.com/), [Director](mailto:ctahan@lps.gov)
 
 ### Partners
 

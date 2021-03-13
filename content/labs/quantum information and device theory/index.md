@@ -12,4 +12,5 @@ thumbnail: "labs/quantum-information-and-device-theory/thumbnail.jpg" # Thumbnai
 ---
 We propose new types of qubits and quantum devices for practical application from quantum computing to sensing and for advancing fundamental physics. Collaborating with experimental groups around the world we seek to understand and advance the state of the art in qubit science.
 
-Research Lead: Charles Tahan
+Research Lead: [Charles Tahan](http://research.tahan.com/)
+
