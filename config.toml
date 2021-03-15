@@ -1,4 +1,4 @@
-baseurl = "qubitcollaboratory.org/"
+baseurl = "https://www.qubitcollaboratory.org"
 title = "LPS Qubit Collaboratory"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
