@@ -77,6 +77,6 @@ Current open positions:
 
 ## LPS SSQP Program Manager/Technical Lead Positions (Gov)
 Multiple positions available on LPS Quantum Computing Program Management team.
-Please apply via: https://apply.intelligencecareers.gov/job-description/1148694 
+Please apply via: https://apply.intelligencecareers.gov/job-description/1156999
 
 With a strong cadre of physicists and state-of-the-art research facilities, LPS has been at the forefront of basic and applied research in quantum information science, with an emphasis on computing for nearly a quarter century. Our mission also benefits from a strong collaborative relationship with the faculty, students, and staff of the University of Maryland. Leveraging this pool of talent and experience, LPS sponsors premier research groups, across the U.S. and around the world, to advance the state-of-the-art in qubit and supporting technologies. To learn more about LPS and our research activities, visit: https://www.lps.umd.edu/. 
