@@ -43,7 +43,13 @@ If you want to engage with the LQC:
 
 	- Grow deep, collaborative partnerships to tackle the most difficult and relevant long-term problems for quantum information science and technology. 
 
-2) Refer to the open BAA for the LQC: [LQC Open BAA]({{< relref "engage/LQC Open BAA.md" >}}) and the associated [Frequently Asked Questions]({{< relref "engage/FAQ.md" >}}).
+2) Read the [LQC Broad Agency Announcement (BAA)]({{< relref "engage/LQC Open BAA.md" >}})! and the associated [Frequently Asked Questions]({{< relref "engage/FAQ.md" >}}). The BAA offers three ways to engage:
+
+	- Incubator and sabbatical opportunities (usually the first step)
+
+	- Collaboratory proposals
+
+	- QuaCR Research Fellowship proposals
 
 
 3) Appreciate our Core Values to:
