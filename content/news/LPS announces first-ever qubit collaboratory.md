@@ -8,6 +8,7 @@ categories:
 tags:
   - "news"
 
+summary: "The quantum world hosts a rich variety of physics that could enable functionality far beyond what traditional technologies can achieve. By probing and manipulating phenomena that occur at the single particle scale, the emerging field of quantum information science (QIS) aims to create new forms of computing, sensing, and communications that could revolutionize how we process and transmit data. The US recently launched the National Quantum Initiative (NQI) to foster collaboration across multiple government agencies in order to strengthen US leadership in QIS and support the next generation of quantum scientists and engineers."
 thumbnail: "img/LQC_Litho.jpg" # Thumbnail image
 ---
 The quantum world hosts a rich variety of physics that could enable functionality far beyond what traditional technologies can achieve. By probing and manipulating phenomena that occur at the single particle scale, the emerging field of quantum information science (QIS) aims to create new forms of computing, sensing, and communications that could revolutionize how we process and transmit data. The US recently launched the National Quantum Initiative (NQI) to foster collaboration across multiple government agencies in order to strengthen US leadership in QIS and support the next generation of quantum scientists and engineers.
