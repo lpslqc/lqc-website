@@ -1,4 +1,4 @@
-Please apply via: [[https://apply.intelligencecareers.gov/job-description/1148740]]
+Please apply [here](https://apply.intelligencecareers.gov/job-description/1161711) or [inquire about open positions at the LPS Qubit Collaboratory](https://forms.gle/aVzMspPpmWJ2u4xK8).
 
 ## Responsibilities
 NSA is home to one of the largest and most established in-house research organizations within the U.S. Intelligence Community (IC), employing scientists with world-class skills in fields such as mathematics, physics, computer science, engineering, and cybersecurity. We collaborate with leading industries, universities, and national laboratories to advance core competencies, leverage work in overlapping disciplines, and solve some of the most challenging national security problems thought to be intractable by adversaries and commercial industry. 
@@ -65,4 +65,4 @@ The ideal candidate is someone whose research interests complement current NSA i
 -	Active electronic device research complimentary to quantum materials or cryogenic logic.
 -	Industry/foundry capabilities in transistor-level device development and associated materials
 
-Please apply via: [[https://apply.intelligencecareers.gov/job-description/1148740]]
+Please apply [here](https://apply.intelligencecareers.gov/job-description/1161711) or [inquire about open positions at the LPS Qubit Collaboratory](https://forms.gle/aVzMspPpmWJ2u4xK8).
