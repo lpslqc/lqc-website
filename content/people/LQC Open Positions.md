@@ -38,7 +38,7 @@ The Laboratory for Physical Sciences, located at the University of Maryland-Coll
 
 
 ## LPS Lead Researcher Positions (Government)
-[Detailed job descriptions]({{< relref "jobs/2020 August Gov Positions.md" >}}). Please apply [here](https://apply.intelligencecareers.gov/job-description/1148740). Feel free to [Contact Us]({{< relref "Contact Us.md" >}}) for more information.
+[Detailed job descriptions]({{< relref "jobs/2020 August Gov Positions.md" >}}). Please apply [here](https://apply.intelligencecareers.gov/job-description/1161711). Feel free to [Contact Us]({{< relref "Contact Us.md" >}}) for more information.
 
 Current open positions:
 
