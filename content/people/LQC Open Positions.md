@@ -71,7 +71,7 @@ Current open positions:
 
 ## Summer of Quantum
 
-- Coming Soon
+- http://www.lps.umd.edu/summer-of-quantum-workshop/
 
 <hr>
 
