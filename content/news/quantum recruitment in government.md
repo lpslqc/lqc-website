@@ -1,7 +1,7 @@
 ---
 title: Workshop on Quantum Recruitment in Government
 description: LPS and OSTP host workshop on quantum recruitment
-date: 2021-07-23
+date: 2021-08-30
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
   - "Press Releases"
