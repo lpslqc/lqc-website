@@ -18,6 +18,11 @@ The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting 
 - **Times:**  Afternoons 1-5pm EST
 - **Cost:**  Free of charge!
 
+![Flyer](SoQ_Flyer.png)
+
+A flyer can be downloaded [here]({{< relref "activities/SoQ_Flyer.pdf" >}})
+
+
 ### Workshop Topics: ###
 
 - Initialization & measurement
