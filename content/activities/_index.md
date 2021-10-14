@@ -1,8 +1,8 @@
 ---
-title: "LQC Activities"
+title: "Collaboratory Activities"
 menu:
   main:
-    name: Labs
+    name: Activities
     weight: 40
 ---
 
