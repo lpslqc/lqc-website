@@ -20,8 +20,6 @@ The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting 
 
 ![Flyer](SoQ_Flyer.png)
 
-A flyer can be downloaded [here]({{< relref "activities/SoQ_Flyer.pdf" >}})
-
 
 ### Workshop Topics: ###
 
