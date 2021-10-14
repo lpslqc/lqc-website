@@ -7,7 +7,7 @@ categories:
   - "Activities"
 tags:
   - "news"
-summary: The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) hosted its inaugural, free Summer of Quantum Workshop July 12 – 23, 2021. Fifty-four (54) national and international participants an received introduction to quantum computing from algorithms to physical implementations, including quantum tutorials and interactive, hands-on projects led by leading quantum scientists from LPS and beyond.
+summary: We are looking for University of Maryland students interested in Research Assistantships at The Laboratory for Physical Sciences (LPS).
 thumbnail: "img/LPS.jpg" # Thumbnail image
 ---
 We are looking for University of Maryland students interested in Research Assistantships at The Laboratory for Physical Sciences (LPS). Come meet LPS Advisors, learn about LPS Research Facilities, and consider conducting your graduate research at LPS! Questions about this event, please contact (lqc@lps.umd.edu).
