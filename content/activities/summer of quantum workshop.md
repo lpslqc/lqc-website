@@ -1,6 +1,6 @@
 ---
 title: "Summer of Quantum Workshop"
-thumbnail: "img/LPS-Banner-166x400_6.10-copy.png"
+thumbnail: "img/SummerQuantum-wide.png"
 ---
 
 ## 2022 Overview ##
