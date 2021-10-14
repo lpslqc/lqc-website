@@ -18,8 +18,8 @@ The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting 
 - **Times:**  Afternoons 1-5pm EST
 - **Cost:**  Free of charge!
 
-![Flyer](/activities/SoQ_Flyer.png)
-<br />Download the flyer [here](/activities/SoQ_Flyer.pdf).
+![Flyer](/activities/SoQ_Flyer.png)  
+Download the flyer [here](/activities/SoQ_Flyer.pdf).
 
 ### Workshop Topics: ###
 
