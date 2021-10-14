@@ -21,5 +21,5 @@ In addition to improving their proficiency across each of the thirty-one (31) wo
 - "It is great to hear the opinions of different experts in a sequence so we can form a bigger picture of what is happening in the quantum information community. Their career advice was also valuable, especially when I was in the breakout rooms with each instructor."
 - "This has been an exceptional workshop. The virtual challenge was handled brilliantly."
 - "I appreciated the amount of discussion of experimental applications."
-- 
+
 We look forward to making next year's workshop even better! 
