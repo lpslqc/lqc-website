@@ -1,6 +1,7 @@
 ---
 title: Workshop on Gaps in Postsecondary Quantum Education and Training
 thumbnail: "img/LPS Workshop on Gaps Banner.jpg"
+sidebar: false
 ---
 
 The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting a workshop on gaps in postsecondary quantum education and training. At this free, online workshop, speakers from academia, government, and the private sector will share what is being done to develop the quantum workforce at the undergraduate, graduate, and career levels. We will identify gaps and needs in educational and training activities in order to move toward a larger, broader, and more inclusive quantum workforce.

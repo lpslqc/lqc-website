@@ -1,6 +1,7 @@
 ---
 title: "Summer of Quantum Workshop"
 thumbnail: "img/SummerQuantum-wide.png"
+sidebar: false
 ---
 
 ## 2022 Overview ##
