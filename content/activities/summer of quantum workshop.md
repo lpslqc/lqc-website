@@ -19,7 +19,7 @@ The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting 
 - **Cost:**  Free of charge!
 
 ![Flyer](/activities/SoQ_Flyer.png)
-Download the flyer [here](/SoQ_Flyer.pdf).
+<br />Download the flyer [here](/activities/SoQ_Flyer.pdf).
 
 ### Workshop Topics: ###
 
