@@ -4,7 +4,7 @@ description: LPS and OSTP host workshop on quantum recruitment
 date: 2021-08-30
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
-  - "Activities"
+  - "Blog"
 tags:
   - "news"
 summary: The Laboratory for Physical Sciences (LPS) hosted a workshop on Quantum Recruitment in Government with approximately forty participants, representing a variety of government agencies, federally funded research and development centers, and a university affiliated research center. 
