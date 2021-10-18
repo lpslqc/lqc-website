@@ -33,3 +33,6 @@ The schedule is available [here](https://docs.google.com/document/d/e/2PACX-1vQS
 ![Flyer](/activities/LPS-GAPS-WORKSHOP-3.png)  
 Download the flyer [here](/activities/LPS-GAPS-WORKSHOP-3.pdf).
 
+## Slides ##
+
+Many of the slides are available [here](https://drive.google.com/drive/folders/1QL50ERSIppPEpOJK8zJeWpex18BdsOUx).
