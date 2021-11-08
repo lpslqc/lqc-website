@@ -46,3 +46,11 @@ In November 2020, [NSA announced the LPS Qubit Collaboratory (LQC)]({{< relref "
 [LQC News]({{< relref "news/" >}})
 
 [LPS Solid-State and Quantum Physics Programs]({{< relref "about/LPS Solid-State and Quantum Physics Programs.md" >}})
+
+# About the LQC Logo
+
+The LPS Qubit Collaboratory logo symbolizes LQC's mission through a variety of interpretations:
+1. The outer circles represent physical qubits in a solid-state device, and the arcs represent the
+physical connections between qubits. The layout is reminiscent of the surface code.
+2. The outer circles and arcs depict four people holding hands around a square table, signifying
+collaboration. The four corners represent government, academia, industry, and non-profits.
