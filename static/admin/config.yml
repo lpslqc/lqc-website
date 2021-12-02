@@ -30,5 +30,5 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: false }
       - { label: 'Summary', name: 'summary', widget: 'markdown' }
-      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
