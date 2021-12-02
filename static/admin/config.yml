@@ -31,9 +31,5 @@ collections:
       - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: false }
       - { label: 'Summary', name: 'summary', widget: 'markdown' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
-      - { label: "Tag", name: "tags", widget: "select", options: 
-            - { label: "Press Release", value: "Press Release" }
-            - { label: "News", value: "News" }
-            - { label: "Event", value: "Event" }
-            - { label: "Blog", value: "Blog" } }
+      - { label: "Tag", name: "tags", widget: "select", options: ["Press Release", "Blog", "News", "Event"] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
