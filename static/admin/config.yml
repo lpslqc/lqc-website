@@ -31,4 +31,11 @@ collections:
       - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: false }
       - { label: 'Summary', name: 'summary', widget: 'markdown' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
+      - label: "Tag"
+         name: "tags"
+         widget: "select"
+         options:
+            - { label: "Press Release", value: "Press Release" }
+            - { label: "Event", value: "Event" }
+            - { label: "Research Highlight", value: "Research Hihglight" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
