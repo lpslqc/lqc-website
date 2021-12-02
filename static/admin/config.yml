@@ -23,12 +23,12 @@ collections:
     slug: '{{slug}}'
     editor:
       preview: false
-    media_folder: 'img/'
+    media_folder: '/content/img/'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: false }
       - { label: 'Summary', name: 'summary', widget: 'markdown' }
-      - { label: 'Thumbnail', name: 'thumbnail', widget: 'string' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
