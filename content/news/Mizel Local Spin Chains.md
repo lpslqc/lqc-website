@@ -17,9 +17,6 @@ The Mizel group has held a long-standing interest in the adiabatic quantum compu
 While this proposed model system only performs a trivial computation, it sheds light on how one might generalize to non-trivial computations. If adiabatic quantum computation does turn out to be viable at non-zero temperature, the potential exists for a different — and possibly easier — way to build a quantum computer.
 
 References
-
 [1] A. Mizel, M. W. Mitchell, and M. L. Cohen, “Energy Barrier to Decoherence,’’ Phys. Rev. A. Rapid Comm. 63, 40302 (2001)
-
 [2] A. Mizel, “Entanglement versus gap, quantum teleportation, and the AKLT model,” J. Phys.: Condens. Matter 33 315801 (2021)
-
 [3] A. Mizel and V. Molino, “Renormalization method for proving frustration-free local spin chains are gapped,” arXiv:2111.09358 (2021)
