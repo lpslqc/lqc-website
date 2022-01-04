@@ -1,6 +1,6 @@
 ---
 title: Gapped Frustration-Free Local Spin Chains
-description: Research Paper
+description: Research Paper - Mizel Group
 date: 2022-01-04
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
