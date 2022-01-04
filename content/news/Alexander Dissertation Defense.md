@@ -8,7 +8,6 @@ categories:
 tags:
   - "news"
 summary: "Congratulations to Dr. Ashish Alexander who successfully defended his Ph.D. doctoral thesis in Electrical Engineering."
-"
 thumbnail: "img/alexander.png" # Thumbnail image
 ---
 Congratulations to Dr. Ashish Alexander who successfully defended his Ph.D. doctoral thesis in Electrical Engineering. His research conducted here at The Laboratory for Physical Sciences (LPS) in the Molecular Beam Epitaxy Group, focused on loss mechanisms in superconducting coplanar waveguide resonators, which are a good proxy for investigating losses in superconducting qubits. This work explored detailed study of the primary loss mechanisms at low temperatures and low photon numbers, specifically focused on two-level system (TLS) losses and quasiparticle (QP) (broken Cooper pair) losses.
