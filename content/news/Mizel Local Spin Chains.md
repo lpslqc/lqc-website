@@ -4,7 +4,7 @@ description: Research Paper - Mizel Group
 date: 2022-01-04
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
-  - "Blog"
+  - "Blogs"
 
 summary: "The Mizel group has held a long-standing interest in the adiabatic quantum computation paradigm and in the technical issues surrounding temperature. Recently, the group published a paper in Journal of Physics: Condensed Matter proposing a model system [2] that performs a trivial computation — a series of approximate identity gates applied to a single quantum bit."
 thumbnail: "img/mizel.png" # Thumbnail image
