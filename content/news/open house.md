@@ -4,9 +4,7 @@ description: Research opportunities for graduate students from UMD
 date: 2021-09-22
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
-  - "Blog"
-tags:
-  - "news"
+  - "Events"
 summary: We are looking for University of Maryland students interested in Research Assistantships at The Laboratory for Physical Sciences (LPS).
 thumbnail: "img/LPS.jpg" # Thumbnail image
 ---
