@@ -5,8 +5,6 @@ date: 2021-04-13
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
   - "Press Releases"
-tags:
-  - "news"
 summary: "Today the National Security Agency’s Laboratory for Physical Sciences (LPS) launched the LPS Qubit Collaboratory (LQC), a Quantum Information Science research center in support of the U.S. National Quantum Initiative. The LQC offers a mechanism for collaborative research between LPS and academia, industry, FFRDCs, and Government Laboratories. The Army Research Office, in partnership with LPS, has announced a Broad Agency Announcement (BAA) for the LPS Qubit Collaboratory that introduces the initial research areas of the LQC."
 thumbnail: "img/collablogo5.png" # Thumbnail image
 ---
