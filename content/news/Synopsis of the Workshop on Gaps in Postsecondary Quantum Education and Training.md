@@ -5,7 +5,7 @@ date: 2021-10-12
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
   - "Events"
-summary: On October 12, 2021, the Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) hosted a free virtual, public Workshop on Gaps in Postsecondary Quantum Education and Training. There were over a hundred registrants, and speakers and panelists included representatives from academia, industry, and government.
+summary: On October 12, 2021, the Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) hosted a free virtual, public Workshop on Gaps in Postsecondary Quantum Education and Training. There were over a hundred registrants, speakers, and panelists including representatives from academia, industry, and government.
 thumbnail: "img/gaps_postsecondary.png" # Thumbnail image
 ---
 On October 12, 2021, the Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) hosted a free virtual, public Workshop on Gaps in Postsecondary Quantum Education and Training. There were over a hundred registrants, and speakers and panelists included representatives from academia, industry, and government.
