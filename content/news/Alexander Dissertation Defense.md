@@ -1,7 +1,7 @@
 ---
 title: "Recent Dissertation Defense: Measuring and Trapping Quasiparticles in Superconducting Coplanar Waveguide Resonators"
 description: Dissertation Defense - Ashish Alexander
-date: 2022-01-04
+date: 2022-01-18
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
   - "Blog"
