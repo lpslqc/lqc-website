@@ -31,6 +31,34 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 ---
 
+### 2021 Publications
+
+1. Y. Kim, C. J. K. Richardson, E. Waks, and J.-H. Kim, “Temporal shaping of single photons by engineering exciton dynamics in a single quantum dot,” APL Photonics 6, 080801 (2021).
+
+2. D. Aiello, D. D. Awschalom, H. Bernien, T. Brower-Thomas, K. R. Brown, T. A. Brun, J. R. Caram, E. Chitambar, R. Di Felice, M. F. J. Fox, S. Haas, A. W. Holleitner, E. R. Hudson, J. H. Hunt, R. Joynt, S. Koziol, H. J. Lewandowski, D. T. McClure, J. Palsberg, G. Passante, K. L. Pudenz, C. J. K. Richardson, J. L. Rosenberg, R. S. Ross, M. Saffman, M. Singh, D. W. Steuerman, C. Stark, J. Thijssen, A. N. Vamivakas, J. D. Whitfield, B. M. Zwickl, “Achieving a quantum smart workforce,” Quantum Science and Technology 6, 030501 (2021).
+
+3. Supple, M. Holtz, C. J. K. Richardson, B. Gorman, “Atomic Structure of Superconducting Tunnel Junctions using STEM and APT,” Microscopy and Microanalysis 27 (S1), 2460 (2021).
+
+4. Gorman, M. Holtz, C. J. K. Richardson, C. Gaspe, E. Supple, R. Butera, “4-D STEM Analyses of Cylindrical Specimens for Atom Probe Tomography,” Microscopy and Microanalysis 27 (S1), 184 (2021).
+
+5. M.S. Radue, Y. Mo, R.E. Butera, “Dopant Precursor Adsorption into Single-Dimer Windows: Towards Guided Self-Assembly of Dopant Arrays on Si(100),” Chem. Phys. Lett. 787, 139258 (2022) (Accepted 2021).
+
+6. K.J. Dwyer, S. Baek, A. Farzaneh, M. Dreyer, J.R. Williams, R.E. Butera, “B-Doped δ-Layers and Nanowires from Area-Selective Deposition of BCl3 on Si(100),”  ACS Applied Materials & Interfaces 13 (34), 41275 (2021).
+
+7. E. Frederick, K.J. Dwyer, G.T. Wang, S. Misra, R.E. Butera, “The stability of Cl-, Br-, and I-passivated Si(100)-(2×1) in ambient environments for atomically-precise pattern preservation,” J. of Phys: Cond. Mat. 33 (44), 444001 (2021).
+
+8. E. Bussmann, R.E. Butera, J.H.G. Owen, et al., Atomic-precision advanced manufacturing for Si quantum computing. MRS Bulletin 2021 46 (7), 607 (2021).
+
+9. D. Silva-Quinones, R.E. Butera, G. Wang, A.V. Teplyakov, “Solution Chemistry to Control Boron-Containing Monolayers on Silicon: Reactions of Boric Acid and 4-Fluorophenylboronic Acid with H- and Cl-terminated Si(100),” Langmuir 37 (23), 7194–7202 (2021).
+
+10. M.S. Radue, S. Baek, A. Farzaneh, K.J. Dwyer, Q. Campbell, A.D. Baczewski, E. Bussmann, G.T. Wang, Y. Mo, S. Misra, R.E. Butera, “AlCl3-dosed Si(100)-2x1: Adsorbates, Chlorinated Al Chains, and Incorporated Al,” J. Phys. Chem. C 125, 11336 (2021).
+
+11. S. Tyagi, M. Dreyer, D. Bowen, D. Hinkel, P.J. Taylor, A.L. Friedman, R.E. Butera, C. Krafft, I. Mayergoyz, “Experimental Detection of Surface Spin-Polarized Electron Accumulations in Topological Insulators using Scanning Tunneling Microscopy,” IEEE Mag. Lett. 12, 1 (2021).
+    
+12. Frank Gaitan, “Finding solutions of the Navier-Stokes equations through quantum computing – Recent progress. a generalization, and next steps forward”. Adv. Quantum Technol. 4, 210005 (2021).
+
+13. F. Oz, R.K.S.S. Vuppala, K. Kara, F. Gaitan, “Solving Burgers equation with quantum computing”. Quantum Inf. Process. 21, 30 (2022).
+    
 
 ### 2020 Publications
 
