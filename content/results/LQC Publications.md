@@ -47,7 +47,7 @@ widgets: # Enable sidebar widgets in given order per page
 
 7. E. Frederick, K.J. Dwyer, G.T. Wang, S. Misra, R.E. Butera, “The stability of Cl-, Br-, and I-passivated Si(100)-(2×1) in ambient environments for atomically-precise pattern preservation,” J. of Phys: Cond. Mat. 33 (44), 444001 (2021).
 
-8. E. Bussmann, R.E. Butera, J.H.G. Owen, et al., Atomic-precision advanced manufacturing for Si quantum computing. MRS Bulletin 2021 46 (7), 607 (2021).
+8. E. Bussmann, R.E. Butera, J.H.G. Owen, et al., “Atomic-precision advanced manufacturing for Si quantum computing,” MRS Bulletin 2021 46 (7), 607 (2021).
 
 9. D. Silva-Quinones, R.E. Butera, G. Wang, A.V. Teplyakov, “Solution Chemistry to Control Boron-Containing Monolayers on Silicon: Reactions of Boric Acid and 4-Fluorophenylboronic Acid with H- and Cl-terminated Si(100),” Langmuir 37 (23), 7194–7202 (2021).
 
@@ -55,9 +55,9 @@ widgets: # Enable sidebar widgets in given order per page
 
 11. S. Tyagi, M. Dreyer, D. Bowen, D. Hinkel, P.J. Taylor, A.L. Friedman, R.E. Butera, C. Krafft, I. Mayergoyz, “Experimental Detection of Surface Spin-Polarized Electron Accumulations in Topological Insulators using Scanning Tunneling Microscopy,” IEEE Mag. Lett. 12, 1 (2021).
     
-12. Frank Gaitan, “Finding solutions of the Navier-Stokes equations through quantum computing – Recent progress. a generalization, and next steps forward”. Adv. Quantum Technol. 4, 210005 (2021).
+12. Frank Gaitan, “Finding solutions of the Navier-Stokes equations through quantum computing – Recent progress. a generalization, and next steps forward,” Adv. Quantum Technol. 4, 210005 (2021).
 
-13. F. Oz, R.K.S.S. Vuppala, K. Kara, F. Gaitan, “Solving Burgers equation with quantum computing”. Quantum Inf. Process. 21, 30 (2022).
+13. F. Oz, R.K.S.S. Vuppala, K. Kara, F. Gaitan, “Solving Burgers equation with quantum computing,” Quantum Inf. Process. 21, 30 (2022).
     
 
 ### 2020 Publications
