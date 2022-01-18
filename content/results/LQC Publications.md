@@ -55,10 +55,23 @@ widgets: # Enable sidebar widgets in given order per page
 
 11. S. Tyagi, M. Dreyer, D. Bowen, D. Hinkel, P.J. Taylor, A.L. Friedman, R.E. Butera, C. Krafft, I. Mayergoyz, “Experimental Detection of Surface Spin-Polarized Electron Accumulations in Topological Insulators using Scanning Tunneling Microscopy,” IEEE Mag. Lett. 12, 1 (2021).
     
-12. Frank Gaitan, “Finding solutions of the Navier-Stokes equations through quantum computing – Recent progress. a generalization, and next steps forward,” Adv. Quantum Technol. 4, 210005 (2021).
+12. F. Gaitan, “Finding solutions of the Navier-Stokes equations through quantum computing – Recent progress. a generalization, and next steps forward,” Adv. Quantum Technol. 4, 210005 (2021).
 
 13. F. Oz, R.K.S.S. Vuppala, K. Kara, F. Gaitan, “Solving Burgers equation with quantum computing,” Quantum Inf. Process. 21, 30 (2022).
-    
+
+14. M. Brooks, C. Tahan, "Hybrid Exchange Measurement-Based Qubit Operations in Semiconductor Double Quantum Dot Qubits," Phys. Rev. Applied 16, 064019 (2021).
+
+15. J. Braumüller, A. H. Karamlou, Y. Yanay, B. Kannan, D. Kim, M. Kjaergaard, A. Melville, B. M. Niedzielski, Y. Sung, A. Vepsäläinen, R. Winik, J. L. Yoder, T. P. Orlando, S. Gustavsson, C. Tahan, W. D. Oliver, "Probing quantum information propagation with out-of-time-ordered correlators," arXiv:2102.11751.
+
+16. Y. Yanay, C. Tahan, "Fourier-style Quantum State Tomography and Purity Measurement of a Multi-qubit System from Bloch Rotations," Phys. Rev. A 103, 062411 (2021).
+
+17. R. Ruskov, C. Tahan, "Modulated longitudinal gates on encoded spin-qubits via curvature couplings to a superconducting cavity," Phys. Rev. B 103, 035301 (2021).
+
+18. C. Tahan, "Democratizing Spin Qubits," Quantum 5, 584 (2021).
+
+19. Y. Yanay, J. Braumüller, T. P. Orlando, S. Gustavsson, C. Tahan, W. D. Oliver, "Mediated interactions beyond the nearest neighbor in an array of superconducting qubits," arXiv:2110.01699.
+
+20. A. H. Karamlou, J. Braumüller, Y. Yanay, A. Di Paolo, P. Harrington, B. Kannan, D. Kim, M. Kjaergaard, A. Melville, S. Muschinske, B. Niedzielski, A. Vepsäläinen, R. Winik, J. L. Yoder, M. Schwartz, C. Tahan, T. P. Orlando, S. Gustavsson, W. D. Oliver, "Quantum transport and localization in 1d and 2d tight-binding lattices," arXiv:2107.05035.
 
 ### 2020 Publications
 
