@@ -4,7 +4,7 @@ description: Dissertation Defense - Ashish Alexander
 date: 2022-01-18
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
-  - "Blog"
+  - "Blogs"
 tags:
   - "news"
 summary: "Congratulations to Dr. Ashish Alexander who successfully defended his Ph.D. doctoral thesis in Electrical Engineering."
