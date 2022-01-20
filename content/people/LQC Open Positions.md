@@ -12,8 +12,8 @@ description: "LQC Open Positions"
 # menu: ["main", "footer"] # Optional, add page to a menu. Options: main, side, footer
 menu:
   main:
-    name: Positions
-    weight: 21
+    name: Jobs
+    weight: 59
 #  footer:
   
 # Theme-Defined params
@@ -38,7 +38,7 @@ The Laboratory for Physical Sciences, located at the University of Maryland-Coll
 
 
 ## LPS Lead Researcher Positions (Government)
-[Detailed job descriptions]({{< relref "jobs/2020 August Gov Positions.md" >}}). Please apply [here](https://apply.intelligencecareers.gov/job-description/1161711). Feel free to [Contact Us]({{< relref "Contact Us.md" >}}) for more information.
+[Detailed job descriptions]({{< relref "people/2020 August Gov Positions.md" >}}). Please apply [here](https://apply.intelligencecareers.gov/job-description/1161711). Feel free to [Contact Us]({{< relref "Contact Us.md" >}}) for more information.
 
 Current open positions:
 
@@ -61,7 +61,7 @@ Current open positions:
 - LQC/UMD Graduate Fellowships (contact [LQC Research Lead]({{< relref "people/LQC People.md" >}}) or [inquire here](https://forms.gle/aVzMspPpmWJ2u4xK8))
 - [MIT Center for Quantum Engineering Fernand Bedard Fellowships](https://cqe.mit.edu/doc-bedard-fellowship/)
 - [UMD LPS-JQI Quantum Fellowships](https://jqi.umd.edu/apply)
-- [ARO/LPS QuACR Fellowships]({{< relref "engage/LQC Open BAA.md" >}})
+- [ARO/LPS QuACR Fellowships]({{< relref "engage/Partnership Funding.md" >}})
 - [Graduate Fellowships for STEM Diversity](https://stemfellowships.org)
 
 ## Undergraduate and High School  Opportunities
@@ -69,9 +69,9 @@ Current open positions:
 - [NSA Student Programs](https://www.intelligencecareers.gov/nsa/nsastudents.html)
 - [Student Programs Search for Intelligence Careers](https://www.intelligencecareers.gov/icstudents.html)
 
-## Summer of Quantum
+## Two-Week Quantum Computing Summer School
 
-- https://www.qubitcollaboratory.org/activities/summer-of-quantum-workshop/
+- [Summer of Quantum Workshop]({{< relref "events/summer of quantum workshop.md" >}})
 
 <hr>
 

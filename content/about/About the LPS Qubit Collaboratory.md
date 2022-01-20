@@ -12,7 +12,7 @@ description: "The LQC's mission: To explore strange new materials...To seek out 
 # menu: ["main", "footer"] # Optional, add page to a menu. Options: main, side, footer
 menu:
   main:
-    name: History
+    name: About Us
     weight: 10
 #  footer:
 
@@ -39,15 +39,15 @@ In November 2020, [NSA announced the LPS Qubit Collaboratory (LQC)]({{< relref "
 
 > A collaboratory is a “center without walls in which the nation’s researchers can perform their research without regard to physical location, interacting with colleagues, accessing instrumentation, sharing data and computational resources, [and] accessing information in digital libraries” (Wulf, 1989).
 
-[How the LPS Qubit Collaboratory Works]({{< relref "about/How the LPS Qubit Collaboratory Works.md" >}})
+To learn about our research thrusts and ways to collaborate with us, see [Partnership Funding]({{< relref "engage/Partnership Funding.md" >}}).
 
-[LQC Open BAA]({{< relref "engage/LQC Open BAA.md" >}})
+View our [home page]({{< relref "/" >}}) for news.
 
-[LQC News]({{< relref "news/" >}})
+Learn about the [LPS Solid-State and Quantum Physics Programs]({{< relref "about/LPS Solid-State and Quantum Physics Programs.md" >}}), which have existed since 1993.
 
-[LPS Solid-State and Quantum Physics Programs]({{< relref "about/LPS Solid-State and Quantum Physics Programs.md" >}})
+## About the LQC Logo
 
-# About the LQC Logo
+![Logo](/img/collablogo5.png)  
 
 The LPS Qubit Collaboratory logo symbolizes LQC's mission through a variety of interpretations:
 1. The outer circles represent physical qubits in a solid-state device, and the arcs represent the

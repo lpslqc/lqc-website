@@ -2,27 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engages on LPS Qubit Collaboratory</title>
-    <link>/engage/</link>
+    <link>http://lps.thomaswong.net/engage/</link>
     <description>Recent content in Engages on LPS Qubit Collaboratory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/engage/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://lps.thomaswong.net/engage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ARO/LQC Broad Agency Announcement</title>
-      <link>/engage/lqc-open-baa/</link>
+      <title>Partner With Us</title>
+      <link>http://lps.thomaswong.net/engage/partnership-funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/engage/lqc-open-baa/</guid>
-      <description>The LQC BAA offers a means to establish collaborative agreements with LPS to conduct original research together.
-The ARO/LPS LQC BAA will be announced soon. Also see How the LQC Works and the FAQ.</description>
-    </item>
-    
-    <item>
-      <title>Frequently Asked Questions</title>
-      <link>/engage/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/engage/faq/</guid>
-      <description>Please send your questions to: usarmy.rtp.rdecom-aro.mesg.qcbox@mail.mil</description>
+      <guid>http://lps.thomaswong.net/engage/partnership-funding/</guid>
+      <description>The LQC offers a mechanism for collaborative research between LPS and academia, industry, FFRDCs, and Government Laboratories to advance foundational and transformative research on challenging problems that have hindered progress in quantum information processing and associated technologies.
+We have funding to establish new partnerships along along six research thrusts, described below. These thrusts are a priority and considered ripe for one of the collaborative research avenues described in this section. Other related topic areas of similar scope may also be considered.</description>
     </item>
     
   </channel>

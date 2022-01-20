@@ -2,11 +2,9 @@
 title: Quantum Circuits With Two-Level Systems
 description: Quantum Circuits With Two-Level Systems
 date: 2020-02-02
-sidebar: true # Enable sidebar (on the right side) per page
-#categories:
-#  - "Labs"
-#tags:
-#  - "news"
+widgets:
+  - "search"
+  - "recent"
 
 thumbnail: "labs/quantum-circuits-with-two-level-systems/thumbnail.jpg" # Thumbnail image
 ---

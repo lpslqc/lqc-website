@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "LQC People"
+title: "People and Partners"
 #date: "2021-03-12"
 description: "LQC People"
 #categories:
@@ -31,25 +31,56 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 ---
 
-### LPS Research Leads
-- Bob Butera
-- Frank Gaitan
-- [Bruce Kane](https://groups.jqi.umd.edu/kane/)
-- [Ari Mizel](http://arimizel.com/)
-- [Kevin Osborn](https://www.physics.umd.edu/~kosborn/)
-- [Ben Palmer](http://terpconnect.umd.edu/~bpalmer/)
-- [Chris Richardson](http://richardsonmbe.umd.edu/), [Deputy Director](mailto:richardson@lps.gov)
-- [Charles Tahan](http://research.tahan.com/), [Director](mailto:ctahan@lps.gov)
+---
 
-### Partners
+## Laboratory for Physical Sciences (LPS)
 
-- <em>Coming soon</em>
+### Research Leads
+- Bob Butera, PhD
+- Frank Gaitan, PhD
+- [Bruce Kane](https://groups.jqi.umd.edu/kane/), PhD
+- [Ari Mizel](http://arimizel.com/), PhD
+- [Kevin Osborn](https://www.physics.umd.edu/~kosborn/), PhD
+- [Ben Palmer](http://terpconnect.umd.edu/~bpalmer/), PhD
+- [Chris Richardson](http://richardsonmbe.umd.edu/), PhD, [Deputy Director](mailto:richardson@lps.gov)
+- [Charles Tahan](http://research.tahan.com/), PhD, [Director](mailto:ctahan@lps.gov)
 
-### LPS Researchers
+### Researchers
 
-- <em>Coming soon</em>
+- *Coming soon*
 
 ### Graduate Students
 
-- <em>Coming soon</em>
+- *Coming soon*
 
+### Staff
+
+- Kim Pinckney-Lewis, PhD, Outreach Lead
+
+---
+
+## LQC Visitors
+
+### Faculty 
+
+- [Hugh Churchill](https://fulbright.uark.edu/departments/physics/directory/index/uid/hchurch/name/Hugh+Churchill/), PhD, University of Arkansas, Summer 2021
+- [Tom Wong](http://www.thomaswong.net), PhD, Creighton University, Summer 2021 - January 2022
+
+### Students
+
+- Chris McNally, MIT, Summer 2021
+
+---
+
+## Partners
+
+LPS was founded on the campus of the University of Maryland in 1957. For over 60 years LPS has trained generations of future scientists and engineers in partnership with local universities. LPS is a founding member of the JQI, QuICS, and the MIT CQE. 
+
+The LQC's growing list of partners include (in chronological order):
+
+- [Physics Department, University of Maryland, College Park](https://umdphysics.umd.edu/)
+- [Joint Quantum Institute, University of Maryland, College Park](https://jqi.umd.edu/)
+- [Center for Quantum Materials, University of Maryland, College Park](https://qmc.umd.edu/)
+- [QuICS, University of Maryland, College Park](https://quics.umd.edu/)
+- [MIT Center for Quantum Engineering](https://cqe.mit.edu/)
+- [Lincoln Laboratory](https://www.ll.mit.edu/)

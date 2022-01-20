@@ -2,11 +2,9 @@
 title: Atomistic Fabrication
 description: Scanning Tunneling Microscopy and Atomistic Fabrication
 date: 2020-02-02
-sidebar: true # Enable sidebar (on the right side) per page
-#categories:
-#  - "Labs"
-#tags:
-#  - "news"
+widgets:
+  - "search"
+  - "recent"
 
 thumbnail: "labs/atomistic-fabrication/thumbnail.jpg" # Thumbnail image
 ---

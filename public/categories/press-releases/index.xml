@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Press Releases on LPS Qubit Collaboratory</title>
-    <link>/categories/press-releases/</link>
+    <link>http://lps.thomaswong.net/categories/press-releases/</link>
     <description>Recent content in Press Releases on LPS Qubit Collaboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/press-releases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://lps.thomaswong.net/categories/press-releases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NSA launches LPS Qubit Collaboratory</title>
+      <link>http://lps.thomaswong.net/news/nsa-launches-lps-qubit-collaboratory/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://lps.thomaswong.net/news/nsa-launches-lps-qubit-collaboratory/</guid>
+      <description>Today the National Security Agency’s Laboratory for Physical Sciences (LPS) launched the LPS Qubit Collaboratory (LQC), a Quantum Information Science research center in support of the U.S. National Quantum Initiative. The LQC offers a mechanism for collaborative research between LPS and academia, industry, FFRDCs, and Government Laboratories. The Army Research Office, in partnership with LPS, has announced a Broad Agency Announcement (BAA) for the LPS Qubit Collaboratory that introduces the initial research areas of the LQC.</description>
+    </item>
+    
     <item>
       <title>LPS announces first-ever qubit collaboratory</title>
-      <link>/news/lps-announces-first-ever-qubit-collaboratory/</link>
+      <link>http://lps.thomaswong.net/news/lps-announces-first-ever-qubit-collaboratory/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/news/lps-announces-first-ever-qubit-collaboratory/</guid>
+      <guid>http://lps.thomaswong.net/news/lps-announces-first-ever-qubit-collaboratory/</guid>
       <description>The quantum world hosts a rich variety of physics that could enable functionality far beyond what traditional technologies can achieve. By probing and manipulating phenomena that occur at the single particle scale, the emerging field of quantum information science (QIS) aims to create new forms of computing, sensing, and communications that could revolutionize how we process and transmit data. The US recently launched the National Quantum Initiative (NQI) to foster collaboration across multiple government agencies in order to strengthen US leadership in QIS and support the next generation of quantum scientists and engineers.</description>
     </item>
     

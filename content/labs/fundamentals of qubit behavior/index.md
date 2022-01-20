@@ -2,11 +2,9 @@
 title: Fundamentals of Qubit Behavior
 description: Fundamentals of Qubit Behavior
 date: 2020-02-02
-sidebar: true # Enable sidebar (on the right side) per page
-#categories:
-#  - "Labs"
-#tags:
-#  - "news"
+widgets:
+  - "search"
+  - "recent"
 
 thumbnail: "labs/fundamentals-of-qubit-behavior/thumbnail.jpg" # Thumbnail image
 ---

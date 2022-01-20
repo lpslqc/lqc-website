@@ -1,0 +1,36 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: /content/img/
+publish_mode: editorial_workflow
+public_folder: /img
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'news'
+    label: 'News'
+    folder: 'content/news'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    media_folder: '/content/img/'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: false }
+      - { label: 'Summary', name: 'summary', widget: 'markdown' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image' }
+      - { label: "Tag", name: "tags", widget: "select", options: ["Press Release", "Blog", "News", "Event"] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaboratory Events on LPS Qubit Collaboratory</title>
+    <link>http://lps.thomaswong.net/events/</link>
+    <description>Recent content in Collaboratory Events on LPS Qubit Collaboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://lps.thomaswong.net/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer of Quantum Workshop</title>
+      <link>http://lps.thomaswong.net/events/summer-of-quantum-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lps.thomaswong.net/events/summer-of-quantum-workshop/</guid>
+      <description>2022 Overview Stay tuned!
+2021 Overview A recap of the 2021 workshop is available here.
+The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting a Summer of Quantum Workshop for rising undergraduate seniors and graduate students enrolled in physics and engineering programs. Leading quantum scientists will provide a two-week introduction to quantum computing from algorithms to physical implementations. The workshop will include quantum tutorials, interactive, hands-on projects, and virtual lab tours.</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Gaps in Postsecondary Quantum Education and Training</title>
+      <link>http://lps.thomaswong.net/events/workshop-on-gaps-in-postsecondary-quantum-education-and-training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lps.thomaswong.net/events/workshop-on-gaps-in-postsecondary-quantum-education-and-training/</guid>
+      <description>The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting a workshop on gaps in postsecondary quantum education and training. At this free, online workshop, speakers from academia, government, and the private sector will share what is being done to develop the quantum workforce at the undergraduate, graduate, and career levels. We will identify gaps and needs in educational and training activities in order to move toward a larger, broader, and more inclusive quantum workforce.</description>
+    </item>
+    
+  </channel>
+</rss>

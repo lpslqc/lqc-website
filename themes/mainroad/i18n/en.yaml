@@ -47,11 +47,11 @@
 
 # Categories widget
 - id: categories_title
-  translation: "Categories"
+  translation: "News Categories"
 
 # Recent Posts widget
 - id: recent_title
-  translation: "Recent Posts"
+  translation: "Recent News"
 
 # Social widget
 - id: social_title

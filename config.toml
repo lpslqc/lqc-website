@@ -1,10 +1,10 @@
-baseurl = "https://www.qubitcollaboratory.org"
+baseurl = "http://lps.thomaswong.net"
 title = "LPS Qubit Collaboratory"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "G-KF5P2YWX26" # Enable Google Analytics by entering your tracking id
+#googleAnalytics = "G-KF5P2YWX26" # Enable Google Analytics by entering your tracking id
 
 #[Author]
 #  name = "John Doe"

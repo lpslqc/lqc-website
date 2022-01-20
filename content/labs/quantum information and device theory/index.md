@@ -2,11 +2,9 @@
 title: Quantum Information and Device Theory
 description: Quantum Information and Device Theory
 date: 2020-02-02
-sidebar: true # Enable sidebar (on the right side) per page
-#categories:
-#  - "Labs"
-#tags:
-#  - "news"
+widgets:
+  - "search"
+  - "recent"
 
 thumbnail: "labs/quantum-information-and-device-theory/thumbnail.jpg" # Thumbnail image
 ---

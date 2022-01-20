@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on LPS Qubit Collaboratory</title>
+    <link>http://lps.thomaswong.net/categories/news/</link>
+    <description>Recent content in News on LPS Qubit Collaboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lps.thomaswong.net/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recent Dissertation Defense: Measuring and Trapping Quasiparticles in Superconducting Coplanar Waveguide Resonators</title>
+      <link>http://lps.thomaswong.net/news/alexander-dissertation-defense/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://lps.thomaswong.net/news/alexander-dissertation-defense/</guid>
+      <description>Congratulations to Dr. Ashish Alexander who successfully defended his Ph.D. doctoral thesis in Electrical Engineering.</description>
+    </item>
+    
+  </channel>
+</rss>

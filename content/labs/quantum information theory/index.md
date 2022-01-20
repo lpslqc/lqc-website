@@ -2,11 +2,9 @@
 title: Quantum Information Theory
 description: Quantum Information Theory
 date: 2020-02-02
-sidebar: true # Enable sidebar (on the right side) per page
-#categories:
-#  - "Labs"
-#tags:
-#  - "news"
+widgets:
+  - "search"
+  - "recent"
 
 thumbnail: "labs/quantum-information-theory/thumbnail.jpg" # Thumbnail image
 ---

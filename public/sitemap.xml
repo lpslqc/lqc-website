@@ -1,181 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/</loc>
+    <loc>http://lps.thomaswong.net/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/categories/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/categories/news/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/alexander-dissertation-defense/</loc>
+    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/categories/blogs/</loc>
+    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/mizel-local-spin-chains/</loc>
+    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/categories/events/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/synopsis-of-the-workshop-on-gaps-in-postsecondary-quantum-education-and-training/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/open-house/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/quantum-recruitment-in-government/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/summer-of-quantum-recap/</loc>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/nsa-launches-lps-qubit-collaboratory/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/categories/press-releases/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/news/lps-announces-first-ever-qubit-collaboratory/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/lps-announces-first-ever-qubit-collaboratory/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/news/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/press-releases/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/atomistic-fabrication/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/atomistic-fabrication/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/cryologic-labs/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/cryologic-labs/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/epitaxial-materials/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/epitaxial-materials/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/fundamentals-of-qubit-behavior/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/fundamentals-of-qubit-behavior/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/quantum-circuits-with-two-level-systems/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/quantum-circuits-with-two-level-systems/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/quantum-information-and-device-theory/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/quantum-information-and-device-theory/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/quantum-information-theory/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/quantum-information-theory/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/quantum-superconducting-devices/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/quantum-superconducting-devices/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/silicon-quantum-devices-and-2d-materials/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/silicon-quantum-devices-and-2d-materials/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/labs/super-semi-lab/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/labs/super-semi-lab/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/example/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/results/publications/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/results/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://lps.thomaswong.net/people/2020-august-gov-positions/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/people/lqc-workforce-programs/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/about/about-the-lps-qubit-collaboratory/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/about/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/events/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/about/contact-us/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/engage/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/about/lps-solid-state-and-quantum-physics-programs/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/people/lqc-open-positions/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/engage/partnership-funding/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/people/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/people/lqc-people/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/results/lqc-publications/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/events/summer-of-quantum-workshop/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/tags/</loc>
+  </url><url>
+    <loc>http://lps.thomaswong.net/events/workshop-on-gaps-in-postsecondary-quantum-education-and-training/</loc>
   </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/demo-page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/jobs/2020-august-gov-positions/</loc>
-  </url>
-  
-  <url>
-    <loc>/logos/logos/</loc>
-  </url>
-  
-  <url>
-    <loc>/lqc-workforce-programs/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/about-the-lps-qubit-collaboratory/</loc>
-  </url>
-  
-  <url>
-    <loc>/engage/lqc-open-baa/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact-us/</loc>
-  </url>
-  
-  <url>
-    <loc>/engage/</loc>
-  </url>
-  
-  <url>
-    <loc>/engage/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>/how-the-lps-qubit-collaboratory-works/</loc>
-  </url>
-  
-  <url>
-    <loc>/jobs/</loc>
-  </url>
-  
-  <url>
-    <loc>/logos/</loc>
-  </url>
-  
-  <url>
-    <loc>/lps-solid-state-and-quantum-physics-programs/</loc>
-  </url>
-  
-  <url>
-    <loc>/lqc-open-positions/</loc>
-  </url>
-  
-  <url>
-    <loc>/lqc-partners/</loc>
-  </url>
-  
-  <url>
-    <loc>/lqc-people/</loc>
-  </url>
-  
-  <url>
-    <loc>/lqc-publications/</loc>
-  </url>
-  
 </urlset>

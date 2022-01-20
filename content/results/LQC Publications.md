@@ -1,8 +1,8 @@
 ---
 # Common-Defined params
-title: "Publications and Presentations"
+title: "Publications"
 # date: "2020-02-02"
-description: "Publications and presentations of the LQC."
+description: "Publications of the LQC."
 #categories:
 #  - "Category 1"
 #  - "Category 2"
@@ -12,13 +12,13 @@ description: "Publications and presentations of the LQC."
 # menu: ["main", "footer"] # Optional, add page to a menu. Options: main, side, footer
 menu:
   main:
-    name: Results
+    name: Publications
     weight: 55
 #  footer:
   
 # Theme-Defined params
 # thumbnail: "img/placeholder.jpg" # Thumbnail image
-#lead: "To boldly go where no qubit has gone before." # Lead text
+lead: "Research publications of the LQC." # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
@@ -29,6 +29,8 @@ widgets: # Enable sidebar widgets in given order per page
   - "search"
   - "recent"
   - "taglist"
+---
+
 ---
 
 ### 2021 Publications
@@ -72,6 +74,8 @@ widgets: # Enable sidebar widgets in given order per page
 19. Y. Yanay, J. Braumüller, T. P. Orlando, S. Gustavsson, C. Tahan, W. D. Oliver, "Mediated interactions beyond the nearest neighbor in an array of superconducting qubits," arXiv:2110.01699.
 
 20. A. H. Karamlou, J. Braumüller, Y. Yanay, A. Di Paolo, P. Harrington, B. Kannan, D. Kim, M. Kjaergaard, A. Melville, S. Muschinske, B. Niedzielski, A. Vepsäläinen, R. Winik, J. L. Yoder, M. Schwartz, C. Tahan, T. P. Orlando, S. Gustavsson, W. D. Oliver, "Quantum transport and localization in 1d and 2d tight-binding lattices," arXiv:2107.05035.
+
+---
 
 ### 2020 Publications
 

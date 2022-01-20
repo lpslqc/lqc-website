@@ -2,11 +2,9 @@
 title: Quantum Superconducting Devices
 description: Quantum Superconducting Devices
 date: 2020-02-02
-sidebar: true # Enable sidebar (on the right side) per page
-#categories:
-#  - "Labs"
-#tags:
-#  - "news"
+widgets:
+  - "search"
+  - "recent"
 
 thumbnail: "labs/quantum-superconducting-devices/thumbnail.jpg" # Thumbnail image
 ---
