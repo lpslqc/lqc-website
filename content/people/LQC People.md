@@ -55,7 +55,7 @@ widgets: # Enable sidebar widgets in given order per page
 - Nicholas Grabon, PhD
 - [Uktan Gungordo](https://scholar.google.com/citations?user=sw0U7Y8AAAAJ), PhD
 - [Alan Kramer](https://scholar.google.com/citations?user=pGXtLzwAAAAJ&hl=en), PhD
-- [Jonathan Marbey](‪https://scholar.google.com/citations?user=YYyENpgAAAAJ&hl=en), PhD
+- [Jonathan Marbey](https://scholar.google.com/citations?user=YYyENpgAAAAJ&hl=en), PhD
 - [Rusko Ruskov](https://scholar.google.com/citations?user=iKet7ogAAAAJ&hl=en), PhD
 - [Haozhi Wang](https://scholar.google.com/citations?user=Qmars0gAAAAJ&hl=en), PhD
 - Yariv Yanay, PhD
