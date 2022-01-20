@@ -47,14 +47,31 @@ widgets: # Enable sidebar widgets in given order per page
 
 ### Researchers
 
-- *Coming soon*
+- [Matthew Brooks](https://scholar.google.com/citations?user=4pO7CUQAAAAJ&hl=en), PhD
+- Joyce Coppock, PhD
+- Michael Dreyer, PhD
+- [Kevin Dwyer](https://scholar.google.com/citations?user=V7ZY5x8AAAAJ&hl=en), PhD
+- Chomani Gaspe, PhD
+- Nicholas Grabon, PhD
+- [Uktan Gungordo](https://scholar.google.com/citations?user=sw0U7Y8AAAAJ), PhD
+- [Alan Kramer](https://scholar.google.com/citations?user=pGXtLzwAAAAJ&hl=en), PhD
+- [Jonathan Marbey](‪https://scholar.google.com/citations?user=YYyENpgAAAAJ&hl=en), PhD
+- [Rusko Ruskov](https://scholar.google.com/citations?user=iKet7ogAAAAJ&hl=en), PhD
+- [Haozhi Wang](https://scholar.google.com/citations?user=Qmars0gAAAAJ&hl=en), PhD
+- Yariv Yanay, PhD
 
 ### Graduate Students
 
-- *Coming soon*
+- Sungha Baek
+- Thomas Farinha
+- Yizhou Huang
+- Joseph Murray
+- [Margaret Samuels](https://scholar.google.com/citations?user=pzFq43oAAAAJ&hl=en)
+- Zach Steffen
 
 ### Staff
 
+- Nona Keith-Henson
 - Kim Pinckney-Lewis, PhD, Outreach Lead
 
 ---
