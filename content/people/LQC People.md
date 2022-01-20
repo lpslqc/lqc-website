@@ -47,7 +47,7 @@ widgets: # Enable sidebar widgets in given order per page
 
 ### Researchers
 
-- Ashish Alexander
+- Ashish Alexander, PhD
 - [Matthew Brooks](https://scholar.google.com/citations?user=4pO7CUQAAAAJ&hl=en), PhD
 - [Hugh Churchill](https://fulbright.uark.edu/departments/physics/directory/index/uid/hchurch/name/Hugh+Churchill/), PhD
 - Joyce Coppock, PhD
