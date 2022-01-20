@@ -48,6 +48,7 @@ widgets: # Enable sidebar widgets in given order per page
 ### Researchers
 
 - [Matthew Brooks](https://scholar.google.com/citations?user=4pO7CUQAAAAJ&hl=en), PhD
+- [Hugh Churchill](https://fulbright.uark.edu/departments/physics/directory/index/uid/hchurch/name/Hugh+Churchill/), PhD
 - Joyce Coppock, PhD
 - Michael Dreyer, PhD
 - [Kevin Dwyer](https://scholar.google.com/citations?user=V7ZY5x8AAAAJ&hl=en), PhD
@@ -80,7 +81,6 @@ widgets: # Enable sidebar widgets in given order per page
 
 ### Faculty 
 
-- [Hugh Churchill](https://fulbright.uark.edu/departments/physics/directory/index/uid/hchurch/name/Hugh+Churchill/), PhD, University of Arkansas, Summer 2021
 - [Tom Wong](http://www.thomaswong.net), PhD, Creighton University, Summer 2021 - Present
 - *More coming soon*
 
