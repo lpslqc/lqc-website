@@ -63,12 +63,11 @@ widgets: # Enable sidebar widgets in given order per page
 
 ### Faculty 
 
-- [Hugh Churchill](https://fulbright.uark.edu/departments/physics/directory/index/uid/hchurch/name/Hugh+Churchill/), PhD, University of Arkansas, Summer 2021
-- [Tom Wong](http://www.thomaswong.net), PhD, Creighton University, Summer 2021 - January 2022
+- *Coming soon*
 
 ### Students
 
-- Chris McNally, MIT, Summer 2021
+- *Coming soon*
 
 ---
 
