@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engages on LPS Qubit Collaboratory</title>
-    <link>http://lps.thomaswong.net/engage/</link>
+    <link>https://www.qubitcollaboratory.org/engage/</link>
     <description>Recent content in Engages on LPS Qubit Collaboratory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://lps.thomaswong.net/engage/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.qubitcollaboratory.org/engage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Partner With Us</title>
-      <link>http://lps.thomaswong.net/engage/partnership-funding/</link>
+      <link>https://www.qubitcollaboratory.org/engage/partnership-funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/engage/partnership-funding/</guid>
+      <guid>https://www.qubitcollaboratory.org/engage/partnership-funding/</guid>
       <description>The LQC offers a mechanism for collaborative research between LPS and academia, industry, FFRDCs, and Government Laboratories to advance foundational and transformative research on challenging problems that have hindered progress in quantum information processing and associated technologies.
 We have funding to establish new partnerships along along six research thrusts, described below. These thrusts are a priority and considered ripe for one of the collaborative research avenues described in this section. Other related topic areas of similar scope may also be considered.</description>
     </item>

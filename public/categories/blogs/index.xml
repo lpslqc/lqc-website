@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on LPS Qubit Collaboratory</title>
-    <link>http://lps.thomaswong.net/categories/blogs/</link>
+    <link>https://www.qubitcollaboratory.org/categories/blogs/</link>
     <description>Recent content in Blogs on LPS Qubit Collaboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://lps.thomaswong.net/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.qubitcollaboratory.org/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gapped Frustration-Free Local Spin Chains</title>
-      <link>http://lps.thomaswong.net/news/mizel-local-spin-chains/</link>
+      <link>https://www.qubitcollaboratory.org/news/mizel-local-spin-chains/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/news/mizel-local-spin-chains/</guid>
+      <guid>https://www.qubitcollaboratory.org/news/mizel-local-spin-chains/</guid>
       <description>The Mizel group has held a long-standing interest in the adiabatic quantum computation paradigm and in the technical issues surrounding temperature. Recently, the group published a paper in Journal of Physics: Condensed Matter proposing a model system [2] that performs a trivial computation — a series of approximate identity gates applied to a single quantum bit.</description>
     </item>
     

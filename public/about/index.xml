@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on LPS Qubit Collaboratory</title>
-    <link>http://lps.thomaswong.net/about/</link>
+    <link>https://www.qubitcollaboratory.org/about/</link>
     <description>Recent content in Abouts on LPS Qubit Collaboratory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://lps.thomaswong.net/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.qubitcollaboratory.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About the LPS Qubit Collaboratory</title>
-      <link>http://lps.thomaswong.net/about/about-the-lps-qubit-collaboratory/</link>
+      <link>https://www.qubitcollaboratory.org/about/about-the-lps-qubit-collaboratory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/about/about-the-lps-qubit-collaboratory/</guid>
+      <guid>https://www.qubitcollaboratory.org/about/about-the-lps-qubit-collaboratory/</guid>
       <description>Quantum Information Science emerges from the intersection of quantum mechanics and information science and promises new forms of computing, sensing, and networks.
 In the Fall of 2018, Agencies and offices across the federal government, including LPS, came together to write a National Strategic Overview for Quantum Information Science. Shortly thereafter, the National Quantum Initiative Act legislated new QIS Research Centers, a quantum industry consortium, and new coordinating bodies (see quantum.gov). The National Defense Authorization Acts of 2019 and 2020 called for a Department of Defense Quantum Information Science Program in support of the national effort, including designation of DOD QIS Research Centers.</description>
     </item>
     
     <item>
       <title>Contact the LQC</title>
-      <link>http://lps.thomaswong.net/about/contact-us/</link>
+      <link>https://www.qubitcollaboratory.org/about/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/about/contact-us/</guid>
+      <guid>https://www.qubitcollaboratory.org/about/contact-us/</guid>
       <description>8050 Greenmead Drive, College Park, MD 20740
 Phone: (301) 935-6400 Fax: (301) 935-6723
 Email us at lqc@lps.gov
@@ -30,10 +30,10 @@ Inquire about open positions at the LPS Qubit Collaboratory. </description>
     
     <item>
       <title>LPS Solid-State and Quantum Physics Programs</title>
-      <link>http://lps.thomaswong.net/about/lps-solid-state-and-quantum-physics-programs/</link>
+      <link>https://www.qubitcollaboratory.org/about/lps-solid-state-and-quantum-physics-programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/about/lps-solid-state-and-quantum-physics-programs/</guid>
+      <guid>https://www.qubitcollaboratory.org/about/lps-solid-state-and-quantum-physics-programs/</guid>
       <description>Since 1993, LPS has funded the quantum computing research community in the United States and around the world. Find out more here.
 Sponsored Research LPS, in partnership with ARO, funds (via Broad Agency Announcments and other mechanisms) a broad array of quantum computing and related research. This research program has changed substanially over the decades and presently includes these major programs:
  HiPS (High Performance Superconducting Qubit Systems) QiS (Qubits in Silicon Program) SHiFT (Stable High Fidelity Trapped Ion Systems) QCISS (Quantum Characterization of Intermediate-Scale Systems) NEQST (New &amp;amp; Emerging Qubit Science &amp;amp; Technology) CQTS (Cross-Quantum Technology Systems)  Intramural Research Beginning in 2000, LPS began active internal research in quantum information science.</description>

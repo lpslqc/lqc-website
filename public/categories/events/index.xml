@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on LPS Qubit Collaboratory</title>
-    <link>http://lps.thomaswong.net/categories/events/</link>
+    <link>https://www.qubitcollaboratory.org/categories/events/</link>
     <description>Recent content in Events on LPS Qubit Collaboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://lps.thomaswong.net/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.qubitcollaboratory.org/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Synopsis of the Workshop on Gaps in Postsecondary Quantum Education and Training</title>
-      <link>http://lps.thomaswong.net/news/synopsis-of-the-workshop-on-gaps-in-postsecondary-quantum-education-and-training/</link>
+      <link>https://www.qubitcollaboratory.org/news/synopsis-of-the-workshop-on-gaps-in-postsecondary-quantum-education-and-training/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/news/synopsis-of-the-workshop-on-gaps-in-postsecondary-quantum-education-and-training/</guid>
+      <guid>https://www.qubitcollaboratory.org/news/synopsis-of-the-workshop-on-gaps-in-postsecondary-quantum-education-and-training/</guid>
       <description>On October 12, 2021, the Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) hosted a free virtual, public Workshop on Gaps in Postsecondary Quantum Education and Training. There were over a hundred registrants, speakers, and panelists including representatives from academia, industry, and government.</description>
     </item>
     
     <item>
       <title>LPS/LQC Open House</title>
-      <link>http://lps.thomaswong.net/news/open-house/</link>
+      <link>https://www.qubitcollaboratory.org/news/open-house/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/news/open-house/</guid>
+      <guid>https://www.qubitcollaboratory.org/news/open-house/</guid>
       <description>We are looking for University of Maryland students interested in Research Assistantships at The Laboratory for Physical Sciences (LPS).</description>
     </item>
     
     <item>
       <title>Workshop on Quantum Recruitment in Government</title>
-      <link>http://lps.thomaswong.net/news/quantum-recruitment-in-government/</link>
+      <link>https://www.qubitcollaboratory.org/news/quantum-recruitment-in-government/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/news/quantum-recruitment-in-government/</guid>
+      <guid>https://www.qubitcollaboratory.org/news/quantum-recruitment-in-government/</guid>
       <description>The Laboratory for Physical Sciences (LPS) hosted a workshop on Quantum Recruitment in Government with approximately forty participants, representing a variety of government agencies, federally funded research and development centers, and a university affiliated research center.</description>
     </item>
     
     <item>
       <title>Summer of Quantum Recap</title>
-      <link>http://lps.thomaswong.net/news/summer-of-quantum-recap/</link>
+      <link>https://www.qubitcollaboratory.org/news/summer-of-quantum-recap/</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://lps.thomaswong.net/news/summer-of-quantum-recap/</guid>
+      <guid>https://www.qubitcollaboratory.org/news/summer-of-quantum-recap/</guid>
       <description>The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) hosted its inaugural, free Summer of Quantum Workshop July 12 – 23, 2021. Fifty-four (54) national and international participants received an introduction to quantum computing from algorithms to physical implementations, including quantum tutorials and interactive, hands-on projects led by leading quantum scientists from LPS and beyond.</description>
     </item>
     
