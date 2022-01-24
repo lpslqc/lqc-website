@@ -49,6 +49,7 @@ widgets: # Enable sidebar widgets in given order per page
 
 - Ashish Alexander, PhD
 - [Matthew Brooks](https://scholar.google.com/citations?user=4pO7CUQAAAAJ&hl=en), PhD
+- [Edwin Yoonjang Chung](https://scholar.google.com/citations?hl=en&user=9oNSE4gAAAAJ&view_op=list_works), PhD
 - [Hugh Churchill](https://fulbright.uark.edu/departments/physics/directory/index/uid/hchurch/name/Hugh+Churchill/), PhD
 - Joyce Coppock, PhD
 - Michael Dreyer, PhD
@@ -89,7 +90,6 @@ widgets: # Enable sidebar widgets in given order per page
 
 ### Students
 
-- [Yoon Jang Chung](https://scholar.google.com/citations?hl=en&user=9oNSE4gAAAAJ&view_op=list_works), Princeton University, Summer 2021
 - +more
 
 ---
