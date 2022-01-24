@@ -61,6 +61,7 @@ widgets: # Enable sidebar widgets in given order per page
 - [Rusko Ruskov](https://scholar.google.com/citations?user=iKet7ogAAAAJ&hl=en), PhD
 - [Haozhi Wang](https://scholar.google.com/citations?user=Qmars0gAAAAJ&hl=en), PhD
 - Yariv Yanay, PhD
+- +more
 
 ### Graduate Students
 
@@ -70,11 +71,13 @@ widgets: # Enable sidebar widgets in given order per page
 - Joseph Murray
 - [Margaret Samuels](https://scholar.google.com/citations?user=pzFq43oAAAAJ&hl=en)
 - Zach Steffen
+- +more
 
 ### Staff
 
 - Nona Keith-Henson
 - Kim Pinckney-Lewis, PhD, Outreach Lead
+- +more
 
 ---
 
@@ -83,11 +86,11 @@ widgets: # Enable sidebar widgets in given order per page
 ### Faculty 
 
 - [Tom Wong](http://www.thomaswong.net), PhD, Creighton University, Summer 2021 - Present
-- *More coming soon*
 
 ### Students
 
-- *More coming soon*
+- [Yoon Jang Chung](https://scholar.google.com/citations?hl=en&user=9oNSE4gAAAAJ&view_op=list_works), Princeton University, Summer 2021
+- +more
 
 ---
 
