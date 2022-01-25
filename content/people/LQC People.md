@@ -77,7 +77,7 @@ widgets: # Enable sidebar widgets in given order per page
 ### Staff
 
 - Nona Keith-Henson
-- Kim Pinckney-Lewis, PhD, Outreach Lead
+- [Kim Pinckney-Lewis](https://scholar.google.com/citations?hl=en&user=ttrSGo4AAAAJ), PhD, Outreach Lead
 - +more
 
 ---
