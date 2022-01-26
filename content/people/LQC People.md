@@ -59,7 +59,6 @@ widgets: # Enable sidebar widgets in given order per page
 - [Uktan Gungordo](https://scholar.google.com/citations?user=sw0U7Y8AAAAJ), PhD
 - [Alan Kramer](https://scholar.google.com/citations?user=pGXtLzwAAAAJ&hl=en), PhD
 - [Jonathan Marbey](https://scholar.google.com/citations?user=YYyENpgAAAAJ&hl=en), PhD
-- Martin Ritter, PhD
 - [Rusko Ruskov](https://scholar.google.com/citations?user=iKet7ogAAAAJ&hl=en), PhD
 - [Haozhi Wang](https://scholar.google.com/citations?user=Qmars0gAAAAJ&hl=en), PhD
 - Yariv Yanay, PhD
@@ -71,6 +70,7 @@ widgets: # Enable sidebar widgets in given order per page
 - Thomas Farinha
 - Yizhou Huang
 - Joseph Murray
+- Martin Ritter
 - [Margaret Samuels](https://scholar.google.com/citations?user=pzFq43oAAAAJ&hl=en)
 - Zach Steffen
 - +more
