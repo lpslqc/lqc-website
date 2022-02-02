@@ -32,14 +32,14 @@ Before we share some additional accomplishments below, we would like to extend a
 # LQC Accomplishment Highlights
 
 ## Events
-●	**Summer of Quantum Workshop**: The LQC hosted its inaugural, free, Summer of Quantum Workshop July 12-23, 2021. Fifty-four (54) national and international participants received an introduction to quantum computing from algorithms to physical implementations, including quantum tutorials and interactive, hands-on projects led by leading quantum scientists from LPS and beyond. [Learn more...](https://www.qubitcollaboratory.org/news/summer-of-quantum-recap/) 
-●	**Workshop on Quantum Recruitment in Government**: On August 30, 2021, the LQC co-hosted with the White House Office of Science and Technology Policy,  a workshop on Quantum Recruitment in Government with approximately forty participants, representing a variety of government agencies, federally funded research and development centers, and a university affiliated research center. [Learn more...](https://www.qubitcollaboratory.org/news/quantum-recruitment-in-government/)
+- **Summer of Quantum Workshop**: The LQC hosted its inaugural, free, Summer of Quantum Workshop July 12-23, 2021. Fifty-four (54) national and international participants received an introduction to quantum computing from algorithms to physical implementations, including quantum tutorials and interactive, hands-on projects led by leading quantum scientists from LPS and beyond. [Learn more...](https://www.qubitcollaboratory.org/news/summer-of-quantum-recap/) 
+- **Workshop on Quantum Recruitment in Government**: On August 30, 2021, the LQC co-hosted with the White House Office of Science and Technology Policy,  a workshop on Quantum Recruitment in Government with approximately forty participants, representing a variety of government agencies, federally funded research and development centers, and a university affiliated research center. [Learn more...](https://www.qubitcollaboratory.org/news/quantum-recruitment-in-government/)
 *This summary is also supposed to be released on quantum.gov, but it has not yet been posted.*
-●	**Workshop on Gaps in Postsecondary Quantum Education and Training**: On October 12, 2021, the LQC hosted a free, virtual, public Workshop on Gaps in Postsecondary Quantum Education and Training. There were over a hundred registrants, speakers, and panelists including representatives from academia, industry, and government. [Learn more...](https://www.qubitcollaboratory.org/news/synopsis-of-the-workshop-on-gaps-in-postsecondary-quantum-education-and-training/)
+-	**Workshop on Gaps in Postsecondary Quantum Education and Training**: On October 12, 2021, the LQC hosted a free, virtual, public Workshop on Gaps in Postsecondary Quantum Education and Training. There were over a hundred registrants, speakers, and panelists including representatives from academia, industry, and government. [Learn more...](https://www.qubitcollaboratory.org/news/synopsis-of-the-workshop-on-gaps-in-postsecondary-quantum-education-and-training/)
 
 ## Publishing Highlights
-Read more about the great work we’re doing [here].(https://www.qubitcollaboratory.org/results/lqc-publications/) 
+Read more about the great work we’re doing [here](https://www.qubitcollaboratory.org/results/lqc-publications/). 
 Stay connected with us as we continue to tackle hard problems and support the QIS community in 2022!
 
-![Charlie Tahan headshot]"img/Charlie copy.jpg" ![Christopher Richardson headshot]"img/ChrisR.jpg"
+![Charlie Tahan headshot](img/Charlie copy.jpg) ![Christopher Richardson headshot](img/ChrisR.jpg)
 Drs. Charlie Tahan and Christopher Richardson
