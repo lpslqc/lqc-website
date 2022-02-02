@@ -42,3 +42,6 @@ Read more about the great work we’re doing [here](https://www.qubitcollaborato
 Stay connected with us as we continue to tackle hard problems and support the QIS community in 2022!
 
 Drs. Charlie Tahan and Christopher Richardson
+
+
+![Charlie Tahan headshot](/img/Charlie_copy.jpg) ![Christopher Richardson headshot](/img/ChrisR.jpeg)
