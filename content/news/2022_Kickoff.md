@@ -1,5 +1,5 @@
 ---
-title: 2022 Kickoff Message
+title: Goodbye 2021 and Happy New Year from the LQC!
 description: Goodbye 2021 and Happy New Year from the LQC!
 date: 2022-02-02
 sidebar: false # Enable sidebar (on the right side) per page
