@@ -41,4 +41,5 @@ Before we share some additional accomplishments below, we would like to extend a
 Read more about the great work we’re doing [here].(https://www.qubitcollaboratory.org/results/lqc-publications/) 
 Stay connected with us as we continue to tackle hard problems and support the QIS community in 2022!
 
+![Charlie Tahan headshot]"img/Charlie copy.jpg" ![Christopher Richardson headshot]"img/ChrisR.jpg"
 Drs. Charlie Tahan and Christopher Richardson
