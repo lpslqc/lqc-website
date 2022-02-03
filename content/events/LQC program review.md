@@ -1,7 +1,9 @@
 ---
 title: "LPS Qubit Collaboratory Program Review"
-thumbnail: "img/program_review.png"
+thumbnail: "img/program_review_banner.png"
 sidebar: false
+
+summary: "The LPS Qubit Collaboratory (LQC) will host its first program review in April 2022. This working meeting will provide the opportunity for our collaboration partners to convene, provide research updates, discuss future research directions and strategize the pathway to tackle the hardest technical challenges."
 ---
 
 The U.S. Army Research Office (ARO), in partnership with NSA’s Laboratory for Physical
