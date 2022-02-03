@@ -1,6 +1,6 @@
 ---
 title: "LPS Qubit Collaboratory Program Review"
-thumbnail: "img/SummerQuantum-wide.png"
+thumbnail: "img/program_review.png"
 sidebar: false
 ---
 
@@ -9,8 +9,8 @@ Sciences (LPS), invites you to the LPS Qubit Collaboratory (LQC) Program Review 
 taking place on April 4 & 5, 2022 in College Park, MD.
 
 This working meeting will provide the opportunity for our collaboration partners to convene,
-provide research updates, and discuss future research directions and strategize the pathway
-to tackle the hardest technical challenges. The LQCPR is a great opportunity to network and
+provide research updates, discuss future research directions and strategize the pathway to
+tackle the hardest technical challenges. The LQCPR is a great opportunity to network and
 explore potential collaborations with LQC, which is, after all, a collaboratory.
 LQC is one of thirteen national quantum information science research centers. LQC
 was launched in November 2020 to pursue disruptive research into building qubits for
