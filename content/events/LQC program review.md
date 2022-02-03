@@ -6,6 +6,8 @@ sidebar: false
 summary: "The LPS Qubit Collaboratory (LQC) will host its first program review in April 2022. This working meeting will provide the opportunity for our collaboration partners to convene, provide research updates, discuss future research directions and strategize the pathway to tackle the hardest technical challenges."
 ---
 
+![hosts](/img/lqc_aro_lps.png)  
+
 The U.S. Army Research Office (ARO), in partnership with NSA’s Laboratory for Physical
 Sciences (LPS), invites you to the LPS Qubit Collaboratory (LQC) Program Review (LQCPR),
 taking place on April 4 & 5, 2022 in College Park, MD.
