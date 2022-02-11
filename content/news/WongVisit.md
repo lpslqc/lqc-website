@@ -5,7 +5,7 @@ date: 2022-02-11
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
   - "Blogs"
-summary: My name is Tom Wong, and I am an assistant professor of physics at Creighton University in Omaha, Nebraska. I had the pleasure of visiting the Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) for seven months, from June 2021 through January 2022. In this blog post, I will share my experiences.
+summary: My name is Tom Wong, and I am an assistant professor of physics at Creighton University in Omaha, Nebraska. I had the pleasure of visiting the Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) for eight months, from June 2021 through February 2022. In this blog post, I will share my experiences.
 
 thumbnail: "img/Wong_Blog.jpg" # Thumbnail image
 ---
