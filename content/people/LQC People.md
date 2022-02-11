@@ -87,7 +87,7 @@ widgets: # Enable sidebar widgets in given order per page
 
 ### Faculty 
 
-- [Tom Wong](http://www.thomaswong.net), PhD, Creighton University, Summer 2021 - February 2022
+- [Tom Wong](http://www.thomaswong.net), PhD, Creighton University, June 2021 - February 2022
 
 ### Students
 
