@@ -54,6 +54,7 @@ widgets: # Enable sidebar widgets in given order per page
 - Joyce Coppock, PhD
 - Michael Dreyer, PhD
 - [Kevin Dwyer](https://scholar.google.com/citations?user=V7ZY5x8AAAAJ&hl=en), PhD
+- Azadeh Farzaneh, PhD
 - Chomani Gaspe, PhD
 - Nicholas Grabon, PhD
 - [Uktan Gungordo](https://scholar.google.com/citations?user=sw0U7Y8AAAAJ), PhD
@@ -83,7 +84,7 @@ widgets: # Enable sidebar widgets in given order per page
 
 ---
 
-## LQC Visitors
+## Previous LQC Visitors
 
 ### Faculty 
 
