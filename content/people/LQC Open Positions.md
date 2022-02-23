@@ -35,6 +35,7 @@ widgets: # Enable sidebar widgets in given order per page
 The Laboratory for Physical Sciences, located at the University of Maryland-College Park, is a unique organization where university, industry, and federal government scientists collaborate on research in advanced computer, sensing, and networking technologies. Working at LPS can take the form of government, UMD, and industry positions at multiple skill levels. See below for current opportunities.
 
 #### [Inquire about open positions at the LPS Qubit Collaboratory.](https://forms.gle/aVzMspPpmWJ2u4xK8)
+Note: requires Google sign-in.
 
 
 ## LPS Lead Researcher Positions (Government)
