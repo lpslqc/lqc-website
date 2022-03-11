@@ -57,7 +57,7 @@ widgets: # Enable sidebar widgets in given order per page
 - [Azadeh Farzaneh](https://scholar.google.com/citations?user=DCs77JcAAAAJ&hl=en&oi=ao), PhD
 - Chomani Gaspe, PhD
 - Nicholas Grabon, PhD
-- [Uktan Güngördü](https://scholar.google.com/citations?user=sw0U7Y8AAAAJ), PhD
+- [Utkan Güngördü](https://scholar.google.com/citations?user=sw0U7Y8AAAAJ), PhD
 - [Alan Kramer](https://scholar.google.com/citations?user=pGXtLzwAAAAJ&hl=en), PhD
 - [Jonathan Marbey](https://scholar.google.com/citations?user=YYyENpgAAAAJ&hl=en), PhD
 - [Rusko Ruskov](https://scholar.google.com/citations?user=iKet7ogAAAAJ&hl=en), PhD
