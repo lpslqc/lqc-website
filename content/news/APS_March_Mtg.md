@@ -9,6 +9,8 @@ summary: Check out these presentations by Laboratory for Physical Sciences (LPS)
 
 thumbnail: "img/LPS.jpg" # Thumbnail image
 ---
+Check out these presentations by Laboratory for Physical Sciences (LPS) Researchers at the APS March Meeting March 14, 2022 - March 18, 2022.
+
 [A41.00006 Growth of PAMBE grown TiN//AlN//TiN Josephson junctions](https://meetings.aps.org/Meeting/MAR22/Session/A41.6)
 
 [A41.00007 Characterization of PAMBE grown TiN/AlN/TiN Josephson junctions](https://meetings.aps.org/Meeting/MAR22/Session/A41.7)
