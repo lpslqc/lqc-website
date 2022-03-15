@@ -7,7 +7,7 @@ categories:
   - "News"
 #tags:
 #  - "news"
-summary: "Dr. Kim Pinckney-Lewis, LQC Outreach Lead, was featured on the Careers in Higher Education Podcast."
+summary: "Dr. Kim Pinckney-Lewis, LQC Outreach Lead, was featured on the Careers in Higher Education Podcast. She discusses her own personal career journey as well as how she 1) applies her skills within the LQC, 2) engages in the LQC’s various outreach initiatives, and 3) differentiates between academic and government setting experiences."
 
 thumbnail: "img/Kim_Headshot.png" # Thumbnail image
 ---
