@@ -75,6 +75,14 @@ widgets: # Enable sidebar widgets in given order per page
 
 20. A. H. Karamlou, J. Braumüller, Y. Yanay, A. Di Paolo, P. Harrington, B. Kannan, D. Kim, M. Kjaergaard, A. Melville, S. Muschinske, B. Niedzielski, A. Vepsäläinen, R. Winik, J. L. Yoder, M. Schwartz, C. Tahan, T. P. Orlando, S. Gustavsson, W. D. Oliver, "Quantum transport and localization in 1d and 2d tight-binding lattices," arXiv:2107.05035.
 
+21. K. D. Osborn, W. Wustmann, "Reversible Fluxon Logic With Optimized CNOT Gate Components," IEEE Transactions on Applied Superconductivity, 31, 1300213 (2021).
+
+22. C. Hung, L. Yu, N. Foroozani, S. Fritz, D. Gerthsen, K. Osborn, "Probing hundreds of individual quantum defects in polycrystalline and amorphous alumina," Physical Review Applied, (2021). 
+
+23. K. D. Osborn, W. Wustmann, "Asynchronous Reversible Computing Unveiled Using Ballistic Shift Registers," [arXiv:2201.12999](https://arxiv.org/abs/2201.12999), (2021). 
+
+24. L. Yu, S. Matityahu, Y. Rosen, C. Hung, A. Maksymov, A. Burin, M. Schecter, K. Osborn, "Evidence for weakly and strongly interacting two-level systems in amorphous silicon," [arXiv:2110.10747](https://arxiv.org/abs/2110.10747), 2021.
+
 ---
 
 ### 2020 Publications
