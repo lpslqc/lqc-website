@@ -8,7 +8,7 @@ sidebar: false
 
 The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is pleased to host its 2nd Summer of Quantum (SoQ) Short Course.
 
-###This course is...###
+### This course is... ###
 
 - **What:**  A free 2-week introduction to quantum computing from algorithms to physical implementations
 - **For Whom:**  Rising undergraduate seniors thru 2nd year graduate students interested in quantum devices and quantum information science
