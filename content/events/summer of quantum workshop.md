@@ -1,16 +1,12 @@
 ---
-title: "Summer of Quantum Workshop"
+title: "2021 Summer of Quantum Workshop"
 thumbnail: "img/SummerQuantum-wide.png"
 sidebar: false
 ---
 
-## 2022 Overview ##
-
-Stay tuned!
-
 ## 2021 Overview ##
 
-A recap of the 2021 workshop is available [here]({{< relref "news/Summer of Quantum recap" >}}).
+**This event already happened. A recap of the 2021 workshop is available [here]({{< relref "news/Summer of Quantum recap" >}}).**
 
 The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is hosting a Summer of Quantum Workshop for rising undergraduate seniors and graduate students enrolled in physics and engineering programs. Leading quantum scientists will provide a two-week introduction to quantum computing from algorithms to physical implementations. The workshop will include quantum tutorials, interactive, hands-on projects, and virtual lab tours. The goal of the workshop is to provide an onramp for interested students into quantum information science.  Registration is limited!  Apply before the June 15th Deadline.
 
