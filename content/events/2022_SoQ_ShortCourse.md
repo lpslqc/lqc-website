@@ -14,12 +14,11 @@ The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is pleased 
 - **For Whom:**  Rising undergraduate seniors thru 2nd year graduate students interested in quantum devices and quantum information science
 - **When:**  July 25 - August 5, 2022; 12:30-4:30pm EST
 - **Where:**  Online via Zoom
-- **Cost:**  Free of charge!
 - **To Apply:** Complete the application form located [here](https://forms.gle/4CShfHZScFMV5Rg28) by the June 3, 2022 deadline.
 
-![Flyer] (/events/Flyer.png)
+![Flyer](/events/Flyer.png)
 
-Download the flyer [here] (/events/Flyer.pdf).
+Download the flyer [here](/events/Flyer.pdf).
 
 ### Workshop Topics: ###
 
