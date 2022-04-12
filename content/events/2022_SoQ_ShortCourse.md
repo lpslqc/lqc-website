@@ -34,3 +34,4 @@ Download the flyer [here](/content/events/Flyer.pdf).
 ### Contact Information ###
 
 For general Summer of Quantum Workshop questions, please contact the LQC at (lqc@lps.gov).
+
