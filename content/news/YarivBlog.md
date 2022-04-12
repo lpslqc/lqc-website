@@ -9,7 +9,7 @@ categories:
 #  - "Blog"
 summary: "When discussing qubits and quantum computers, we usually think of them in terms of digital calculations (most notably Shor's algorithm to factor prime numbers) and the advantage they have over classical algorithms. But while the field has been advancing at breakneck speed for the last decade and more, the fidelity of current devices remains far from what is required for such applications. This is because these requirements are very stringent: digital algorithms generally need to be able to run a full calculation without a single mistake. For an application like factoring a 2048-bit number, such as the ones used in modern encryption, this corresponds to an error rate of less than one in 108  after error correction algorithms are applied. Read more!"
 
-thumbnail: "img/SOQ Short Program banner 3.11.jpg" # Thumbnail image
+thumbnail: "img/Yariv_photo.png" # Thumbnail image
 ---
 # Measuring the Speed of Quantum Information #
 
