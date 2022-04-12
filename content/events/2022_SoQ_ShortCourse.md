@@ -17,9 +17,9 @@ The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is pleased 
 - **Cost:**  Free of charge!
 - **To Apply:** Complete the application form located [here](https://forms.gle/4CShfHZScFMV5Rg28) by the June 3, 2022 deadline.
 
-![Flyer](content/events/SOQ Short Course bro.4.11.png)
+![Flyer](content/events/Flyer.png)
 
-Download the flyer [here](content/events/SOQ_ShortCourse_bro_4_11.pdf).
+Download the flyer [here](content/events/Flyer.pdf).
 
 ### Workshop Topics: ###
 
