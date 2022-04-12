@@ -16,9 +16,9 @@ The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) is pleased 
 - **Where:**  Online via Zoom
 - **To Apply:** Complete the application form located [here](https://forms.gle/4CShfHZScFMV5Rg28) by the June 3, 2022 deadline.
 
-![Flyer](Flyer.png)
+![Flyer](events/Flyer.png)
 
-Download the flyer [here](Flyer.pdf).
+Download the flyer [here](events/Flyer.pdf).
 
 ### Workshop Topics: ###
 
