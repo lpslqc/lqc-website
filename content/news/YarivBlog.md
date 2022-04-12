@@ -25,12 +25,14 @@ The result, described in our theory paper, was a kind of phase diagram depending
 
 ![Image1](content/img/Yariv_image1.png)
 
-***Which many-body models can be realized by an array of qubits, depending on its parameters. Cyan shading highlights the area accessible with transmon qubits.***
+<div align="center">_Which many-body models can be realized by an array of qubits, depending on its parameters. Cyan shading highlights the area accessible with transmon qubits._</div>
 
 From this initial analysis, we decided to focus on the "Hard Core Boson" model: a system made up of particles (bosons) that strongly repel each other (have a "hard core") to allow only one particle per site. There are many reasons why this model is interesting: it is a strongly-interacting many-body system, a class of models which physicists are very interested in, and it is hard to calculate – there is no analytical solution, and numerical calculations scale exponentially with the number of sites.
 The result, a year or so later, has now been published: in Probing quantum information propagation with out-of-time-ordered correlators we explore the Hard Core Boson model on a 3x3 lattice of transmons.
  
-The experimental chip
+![Image2](content/img/Yariv_image2.png)
+ 
+<div align="center">_The experimental chip_</div>
 
 ## Information Propagation ##
 When we first calibrated our operational 9-qubit chip, having overcome many experimental challenges, we were faced with a dilemma: what should we measure?
@@ -46,7 +48,9 @@ Enter the OTOC, or out-of-time-ordered correlator, a mathematical object favored
 ## Quantum Butterflies ##
 To understand OTOCs, first imagine a simpler process. We set our system to some initial state   and then perturb it with a local operator   (for example, adding an excitation). As we let the system evolve, this initial excitation is scrambled by the dynamics, and after a while it is no longer clearly localized. However, the information is still there: if we now reverse time and run the evolution backwards, we would be able to recreate the perturbed state. This is called a Loschmidt echo.
 
- Using forward and backward time evolution to probe the information light cone.
+![Image3](content/img/Yariv_image3.png)
+
+<div align="center">_Using forward and backward time evolution to probe the information light cone._</div>
 
 To study the propagation of information, we add an intermediary step. As before, we start with  , apply the perturbation  , and let the system evolve forward in time. But now, we add a second local perturbation,  , at some distance from  . We then rewind time, as before. What do we expect to see?
 
@@ -57,8 +61,9 @@ In the experiment, we cannot reverse time, but we found that we can do something
 ## Seeing the Light Cone ##
 In the lab, we began by performing the experiment outlined above on a resonant (or degenerate) lattice, one where all qubits have the same frequency, and so excitations can hop around freely. The results, shown below, are quite remarkable, both in their agreement with numerical simulation and in how clearly we can observe the information light cone.
 
+![Image4](content/img/Yariv_image4.png)
  
-The information light cone in a degenerate lattice, as experimentally measured by extracting OTOC. Here qubits are grouped by their distance from the initial excitation.
+<div align="center">_The information light cone in a degenerate lattice, as experimentally measured by extracting OTOC. Here qubits are grouped by their distance from the initial excitation._</div>
 
 In the figure above, we have on the left the simple experiment we outlined originally for the system in its ground state: a single excitation is added, and its location is tracked. The four columns on the right represent OTOC experiments. We see that in the absence of other excitations, the pictures are the same (note their time axis is different) – as noted above, a single excitation is itself the information.
 
@@ -67,7 +72,10 @@ The OTOC formalism, however, allows us to go beyond the ground state. In the nex
 You might note, though, that while we have obtained these light cones, they seem unchanged by the presence of excitations. Adding more particles to the system does not inhibit or aid the flow of information. To see the effects of many-body physics, we need to go to the disordered case.
 
 ## Law and Disorder ##
-The information light cone in a disordered lattice, as experimentally measured by extracting OTOC.
+
+![Image5](content/img/Yariv_image5.png)
+
+<div align="center">_The information light cone in a disordered lattice, as experimentally measured by extracting OTOC._</div>
 
 In our final experiment, we added one extra ingredient. Instead of tuning all qubits to the same frequency, we added a random offset, roughly of the same scale as the strength of the coupling between them. Now, excitations have a harder time moving around the lattice, as they must overcome these energy differences. In fact, in the figure above, we see that the disorder can localize excitations and the information they carry: in the absence of other excitations, the information from one corner never reaches all the way to the other side of the lattice.
 
