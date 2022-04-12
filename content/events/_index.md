@@ -1,5 +1,5 @@
 ---
-title: "Collaboratory Events"
+title: "Upcoming Collaboratory Events"
 menu:
   main:
     name: Events
