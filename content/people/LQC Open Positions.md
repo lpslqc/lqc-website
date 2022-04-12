@@ -72,7 +72,7 @@ Current open positions:
 
 ## Two-Week Quantum Computing Summer School
 
-- [Summer of Quantum Workshop]({{< relref "events/summer of quantum workshop.md" >}})
+- [Summer of Quantum Workshop]({{< relref "events/2022_SoQ_ShortCourse.md" >}})
 
 <hr>
 
