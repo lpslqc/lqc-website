@@ -23,14 +23,14 @@ Why would we want to do that? Well, the systems we try to understand as physicis
 Quantum simulation, as described above, is a very broad term – there are many physical systems and many models that one could be interested in. When we began our current collaboration a few years ago, we set out to find the intersection of what was interesting to explore, and what our collaborators at EQuS could realize in the lab.
 The result, described in our theory paper, was a kind of phase diagram depending on the parameters of the system - its coupling strength,  , compared to its frequency   and anharmonicity  . We were particularly interested in what systems we could explore with transmons, the current variant of superconducting qubits that is most robust to noise and decoherence.
 
-![Image1](content/img/Yariv_image1.png)
+![Image1](/content/img/Yariv_image1.png)
 
 <div align="center">_Which many-body models can be realized by an array of qubits, depending on its parameters. Cyan shading highlights the area accessible with transmon qubits._</div>
 
 From this initial analysis, we decided to focus on the "Hard Core Boson" model: a system made up of particles (bosons) that strongly repel each other (have a "hard core") to allow only one particle per site. There are many reasons why this model is interesting: it is a strongly-interacting many-body system, a class of models which physicists are very interested in, and it is hard to calculate – there is no analytical solution, and numerical calculations scale exponentially with the number of sites.
 The result, a year or so later, has now been published: in Probing quantum information propagation with out-of-time-ordered correlators we explore the Hard Core Boson model on a 3x3 lattice of transmons.
  
-![Image2](content/img/Yariv_image2.png)
+![Image2](/content/img/Yariv_image2.png)
  
 <div align="center">_The experimental chip_</div>
 
@@ -48,7 +48,7 @@ Enter the OTOC, or out-of-time-ordered correlator, a mathematical object favored
 ## Quantum Butterflies ##
 To understand OTOCs, first imagine a simpler process. We set our system to some initial state   and then perturb it with a local operator   (for example, adding an excitation). As we let the system evolve, this initial excitation is scrambled by the dynamics, and after a while it is no longer clearly localized. However, the information is still there: if we now reverse time and run the evolution backwards, we would be able to recreate the perturbed state. This is called a Loschmidt echo.
 
-![Image3](content/img/Yariv_image3.png)
+![Image3](/content/img/Yariv_image3.png)
 
 <div align="center">_Using forward and backward time evolution to probe the information light cone._</div>
 
@@ -73,7 +73,7 @@ You might note, though, that while we have obtained these light cones, they seem
 
 ## Law and Disorder ##
 
-![Image5](content/img/Yariv_image5.png)
+![Image5](/content/img/Yariv_image5.png)
 
 <div align="center">_The information light cone in a disordered lattice, as experimentally measured by extracting OTOC._</div>
 
