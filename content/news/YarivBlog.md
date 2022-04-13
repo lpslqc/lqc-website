@@ -30,7 +30,7 @@ The result, described in our [theory paper](https://doi.org/10.1038/s41534-020-0
 From this initial analysis, we decided to focus on the "Hard Core Boson" model: a system made up of particles (bosons) that strongly repel each other (have a "hard core") to allow only one particle per site. There are many reasons why this model is interesting: it is a strongly-interacting many-body system, a class of models which physicists are very interested in, and it is hard to calculate – there is no analytical solution, and numerical calculations scale exponentially with the number of sites.
 The result, a year or so later, has now been published: in [Probing quantum information propagation with out-of-time-ordered correlators](https://doi.org/10.1038/s41567-021-01430-w) we explore the Hard Core Boson model on a 3x3 lattice of transmons.
  
-![Image2](/content/img/Yariv_image2.png)
+![Image2](/img/Yariv_image2.png)
  
 *The experimental chip*
 
@@ -48,7 +48,7 @@ Enter the OTOC, or out-of-time-ordered correlator, a mathematical object favored
 ## Quantum Butterflies ##
 To understand OTOCs, first imagine a simpler process. We set our system to some initial state ![image](https://user-images.githubusercontent.com/85365118/163077629-4edcc490-089e-4578-a55e-824338e0c808.png) and then perturb it with a local operator ![image](https://user-images.githubusercontent.com/85365118/163077670-7f3cdcdd-5d2f-4d0b-89cf-fca2c36732d6.png) (for example, adding an excitation). As we let the system evolve, this initial excitation is scrambled by the dynamics, and after a while it is no longer clearly localized. However, the information is still there: if we now reverse time and run the evolution backwards, we would be able to recreate the perturbed state. This is called a *Loschmidt* echo.
 
-![Image3](/content/img/Yariv_image3.png)
+![Image3](/img/Yariv_image3.png)
 
 *Using forward and backward time evolution to probe the information light cone.*
 
@@ -61,7 +61,7 @@ In the experiment, we cannot reverse time, but we found that we can do something
 ## Seeing the Light Cone ##
 In the lab, we began by performing the experiment outlined above on a resonant (or degenerate) lattice, one where all qubits have the same frequency, and so excitations can hop around freely. The results, shown below, are quite remarkable, both in their agreement with numerical simulation and in how clearly we can observe the information light cone.
 
-![Image4](/content/img/Yariv_image4.png)
+![Image4](/img/Yariv_image4.png)
  
 *The information light cone in a degenerate lattice, as experimentally measured by extracting OTOC. Here qubits are grouped by their distance from the initial excitation.*
 
@@ -73,7 +73,7 @@ You might note, though, that while we have obtained these light cones, they seem
 
 ## Law and Disorder ##
 
-![Image5](/content/img/Yariv_image5.png)
+![Image5](/img/Yariv_image5.png)
 
 *The information light cone in a disordered lattice, as experimentally measured by extracting OTOC.*
 
