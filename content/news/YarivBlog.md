@@ -61,7 +61,7 @@ In the experiment, we cannot reverse time, but we found that we can do something
 ## Seeing the Light Cone ##
 In the lab, we began by performing the experiment outlined above on a resonant (or degenerate) lattice, one where all qubits have the same frequency, and so excitations can hop around freely. The results, shown below, are quite remarkable, both in their agreement with numerical simulation and in how clearly we can observe the information light cone.
 
-![Image4](content/img/Yariv_image4.png)
+![Image4](/content/img/Yariv_image4.png)
  
 <div align="center">_The information light cone in a degenerate lattice, as experimentally measured by extracting OTOC. Here qubits are grouped by their distance from the initial excitation._</div>
 
