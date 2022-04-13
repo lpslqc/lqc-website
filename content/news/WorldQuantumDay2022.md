@@ -1,7 +1,7 @@
 ---
 title: The LQC Celebrates World Quantum Day!
 description: World Quantum Day 2022
-date: 2022-02-02
+date: 2022-04-14
 sidebar: false # Enable sidebar (on the right side) per page
 categories:
   - "News"
