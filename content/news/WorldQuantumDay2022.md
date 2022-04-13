@@ -9,7 +9,7 @@ categories:
 #  - "News"
 summary: April 14, 2022 marks the first global celebration of World Quantum Day. The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) joins in this initiative along with scientists from more than 65 countries. To celebrate this event, we would like to focus on our greatest assets: our people and the work they do to push the boundaries within the Quantum Information Science (QIS) space. 
 
-thumbnail: "img/LQC_Litho.jpg" # Thumbnail image
+thumbnail: "/img/LQC_Litho.jpg" # Thumbnail image
 ---
 April 14, 2022 marks the first global celebration of World Quantum Day. The Laboratory for Physical Sciences (LPS) Qubit Collaboratory (LQC) joins in this initiative along with scientists from more than 65 countries. To celebrate this event, we would like to focus on our greatest assets: our people and the work they do to push the boundaries within the Quantum Information Science (QIS) space. 
 
