@@ -25,7 +25,7 @@ Why would we want to do that? Well, the systems we try to understand as physicis
 
 Quantum simulation, as described above, is a very broad term – there are many physical systems and many models that one could be interested in. When we began our current collaboration a few years ago, we set out to find the intersection of what was interesting to explore, and what our collaborators at [EQuS](https://equs.mit.edu/) could realize in the lab.
 
-The result, described in our [theory paper](https://doi.org/10.1038/s41534-020-0269-1), was a kind of phase diagram depending on the parameters of the system - its coupling strength, ![image]/img/J.png), compared to its frequency ![image](/img/wq.png) and anharmonicity ![image](/img/A.png). We were particularly interested in what systems we could explore with transmons, the current variant of superconducting qubits that is most robust to noise and decoherence.
+The result, described in our [theory paper](https://doi.org/10.1038/s41534-020-0269-1), was a kind of phase diagram depending on the parameters of the system - its coupling strength, ![image](/img/J.png), compared to its frequency ![image](/img/wq.png) and anharmonicity ![image](/img/A.png). We were particularly interested in what systems we could explore with transmons, the current variant of superconducting qubits that is most robust to noise and decoherence.
 
 ![Image1](/img/Yariv_image1.png)
 
